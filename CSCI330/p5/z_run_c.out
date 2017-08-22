@@ -1,0 +1,791 @@
+=============
+Program 5 output
+=============
+
+*************************************************
+Mission #1:
+*************************************************
+
+**Before Deployment for round #1:
+
+1D22 : DAGGER : 5
+1D23 : GLOCK 171 : 1
+1D24 : GLOCK 201 : 2
+1D25 : LEATHER JACKET : 1
+1D26 : RIOT SHIELD : 1
+1D27 : STUN GUN : 1
+1D28 : SWORD : 3
+
+Leader:
+1D29 : HUMAN#FTR#JAMIAN#(-1,-1)#44#[8#11#9#13#13#8]#(INTIMIDATE,SWIM)#LARGE WOODEN SHIELD#SWORD#
+	10#76000#29#()#
+
+1E1  : Equipment:   (SWORD)
+
+
+**Before Move #1:
+1B41 : O
+1B42 : O
+1B43 : O
+1B44 : O
+1B45 : O
+1B46 : O
+1B47 : O
+1B48 : O
+1B49 : O
+1B50 : O
+1B51 : O
+1B52 : O
+1B53 : O
+1B54 : O
+1B55 : O
+
+Leader:
+1B56 : HUMAN#FTR#JAMIAN#(-1,-1)#44#[8#11#9#13#13#8]#(INTIMIDATE,SWIM)#LARGE WOODEN SHIELD#SWORD#
+	10#76000#29#()#
+
+1M1  : Placement row,col:   (1,2)
+
+(1,2):24#[ADEAK,JAMIAN,KEVKUL,PANROS]##0#OH my, experiencing a polymorph encounter
+
+
+*************************************************
+Mission #2:
+*************************************************
+
+**Before Deployment for round #2:
+
+2D22 : DAGGER : 5
+2D23 : GLOCK 171 : 1
+2D24 : GLOCK 201 : 2
+2D25 : LEATHER JACKET : 1
+2D26 : RIOT SHIELD : 1
+2D27 : STUN GUN : 1
+2D28 : SWORD : 3
+
+Leader:
+2D29 : ELF#WIZ#ADEAK#(1,2)#18#[15#8#11#10#10#15]#(CONCENTRATION,HIDE,USE MAGIC DEVICES)##SHORT BOW#
+	10#76000#27#(QUARTER STAFF)#
+
+2E1  : Equipment:   (DAGGER)
+
+
+**Before Move #2:
+2B42 : O
+2B43 : O
+2B44 : O
+2B45 : O
+2B46 : O
+2B47 : X
+2B48 : O
+2B49 : O
+2B50 : O
+2B51 : O
+2B52 : O
+2B53 : O
+2B54 : O
+2B55 : O
+2B56 : O
+
+Leader:
+2B57 : ELF#WIZ#ADEAK#(1,2)#18#[15#8#11#10#10#15]#(CONCENTRATION,HIDE,USE MAGIC DEVICES)##DAGGER#
+	10#76000#27#(QUARTER STAFF)#
+
+2M1  : Move (units 1-6) (dir N,S,E,W) unit,dir:   (2,W)
+
+(1,0):15#[ADEAK,JAMIAN,KEVKUL,PANROS]##0#OH my, encountered destruction
+
+
+*************************************************
+Mission #3:
+*************************************************
+
+**Before Deployment for round #3:
+
+3D23 : DAGGER : 4
+3D24 : GLOCK 171 : 1
+3D25 : GLOCK 201 : 2
+3D26 : LEATHER JACKET : 1
+3D27 : RIOT SHIELD : 1
+3D28 : SHORT BOW : 1
+3D29 : STUN GUN : 1
+3D30 : SWORD : 3
+
+Leader:
+3D31 : HALFELF#CLR#PANROS#(1,0)#47#[6#11#10#6#7#11]#(HEAL,USE MAGIC DEVICES)#SMALL WOODEN SHIELD#LONG SWORD#
+	10#76000#28#()#
+
+3E1  : Equipment:   (STUN GUN)
+
+
+**Before Move #3:
+3B42 : O
+3B43 : O
+3B44 : O
+3B45 : X
+3B46 : O
+3B47 : O
+3B48 : O
+3B49 : O
+3B50 : O
+3B51 : O
+3B52 : O
+3B53 : O
+3B54 : O
+3B55 : O
+3B56 : O
+
+Leader:
+3B57 : HALFELF#CLR#PANROS#(1,0)#47#[6#11#10#6#7#11]#(HEAL,USE MAGIC DEVICES)#SMALL WOODEN SHIELD#STUN GUN#
+	10#76000#28#()#
+
+3M1  : Move (units 1-6) (dir N,S,E,W) unit,dir:   (3,S)
+
+(4,0):73#[ADEAK,JAMIAN,KEVKUL,PANROS]#SPEAR#0#stumbled onto a chest of equipment -need Open Lock skillck
+
+
+*************************************************
+Mission #4:
+*************************************************
+
+**Before Deployment for round #4:
+
+4D23 : DAGGER : 4
+4D24 : GLOCK 171 : 1
+4D25 : GLOCK 201 : 2
+4D26 : LEATHER JACKET : 1
+4D27 : LONG SWORD : 1
+4D28 : RIOT SHIELD : 1
+4D29 : SHORT BOW : 1
+4D30 : SWORD : 3
+
+Leader:
+4D31 : ORC#ROG#KEVKUL#(4,0)#35#[5#8#5#13#16#12]#(BLUFF,CLIMB,HIDE)#LEATHER#RAPIER#
+	10#76000#27#(SHORT BOW)#
+
+4E1  : Equipment:   (GLOCK 201)
+
+
+**Before Move #4:
+4B43 : O
+4B44 : O
+4B45 : O
+4B46 : O
+4B47 : O
+4B48 : O
+4B49 : O
+4B50 : O
+4B51 : O
+4B52 : O
+4B53 : O
+4B54 : O
+4B55 : X
+4B56 : O
+4B57 : O
+
+Leader:
+4B58 : ORC#ROG#KEVKUL#(4,0)#35#[5#8#5#13#16#12]#(BLUFF,CLIMB,HIDE)#LEATHER#GLOCK 201#
+	10#76000#27#(SHORT BOW)#
+
+4M1  : Move (units 1-6) (dir N,S,E,W) unit,dir:   (2,N)
+
+(2,0):27#[ADEAK,JAMIAN,KEVKUL,PANROS]#GREAT CLUB#0#A merchant is selling a Great club
+
+
+*************************************************
+Mission #5:
+*************************************************
+
+**Before Deployment for round #5:
+
+5D24 : DAGGER : 4
+5D25 : GLOCK 171 : 1
+5D26 : GLOCK 201 : 1
+5D27 : LEATHER JACKET : 1
+5D28 : LONG SWORD : 1
+5D29 : RAPIER : 1
+5D30 : RIOT SHIELD : 1
+5D31 : SHORT BOW : 1
+5D32 : SWORD : 3
+
+Leader:
+5D33 : HUMAN#FTR#JAMIAN#(2,0)#44#[8#11#9#13#13#8]#(INTIMIDATE,SWIM)#LARGE WOODEN SHIELD#SWORD#
+	10#76000#29#()#
+
+5E1  : Equipment:   (RIOT SHIELD)
+
+
+**Before Move #5:
+5B43 : O
+5B44 : O
+5B45 : O
+5B46 : O
+5B47 : O
+5B48 : O
+5B49 : X
+5B50 : O
+5B51 : O
+5B52 : O
+5B53 : O
+5B54 : O
+5B55 : O
+5B56 : O
+5B57 : O
+
+Leader:
+5B58 : HUMAN#FTR#JAMIAN#(2,0)#44#[8#11#9#13#13#8]#(INTIMIDATE,SWIM)#RIOT SHIELD#SWORD#
+	10#76000#29#()#
+
+5M1  : Move (units 1-6) (dir N,S,E,W) unit,dir:   (1,S)
+
+(3,0):62#[ADEAK,JAMIAN,KEVKUL,PANROS]##0#Leader falls into a hole, hits head and suffers Amnesia
+
+
+*************************************************
+Mission #6:
+*************************************************
+
+**Before Deployment for round #6:
+
+6D24 : DAGGER : 4
+6D25 : GLOCK 171 : 1
+6D26 : GLOCK 201 : 1
+6D27 : LARGE WOODEN SHIELD : 1
+6D28 : LEATHER JACKET : 1
+6D29 : LONG SWORD : 1
+6D30 : RAPIER : 1
+6D31 : SHORT BOW : 1
+6D32 : SWORD : 3
+
+Leader:
+6D33 : ELF#WIZ#ADEAK#(3,0)#18#[15#8#11#10#10#15]#(CONCENTRATION,HIDE,USE MAGIC DEVICES)##DAGGER#
+	10#76000#27#(QUARTER STAFF)#
+
+6E1  : Equipment:   (DAGGER)
+
+
+**Before Move #6:
+6B43 : O
+6B44 : O
+6B45 : O
+6B46 : O
+6B47 : O
+6B48 : O
+6B49 : O
+6B50 : O
+6B51 : O
+6B52 : X
+6B53 : O
+6B54 : O
+6B55 : O
+6B56 : O
+6B57 : O
+
+Leader:
+6B58 : ELF#WIZ#ADEAK#(3,0)#18#[15#8#11#10#10#15]#(CONCENTRATION,HIDE,USE MAGIC DEVICES)##DAGGER#
+	10#76000#27#(QUARTER STAFF)#
+
+6M1  : Move (units 1-6) (dir N,S,E,W) unit,dir:   (1,N)
+
+(2,0):27#[ADEAK,JAMIAN,KEVKUL,PANROS]##0#A merchant is selling a Great club
+
+
+*************************************************
+Mission #7:
+*************************************************
+
+**Before Deployment for round #7:
+
+7D24 : DAGGER : 4
+7D25 : GLOCK 171 : 1
+7D26 : GLOCK 201 : 1
+7D27 : LARGE WOODEN SHIELD : 1
+7D28 : LEATHER JACKET : 1
+7D29 : LONG SWORD : 1
+7D30 : RAPIER : 1
+7D31 : SHORT BOW : 1
+7D32 : SWORD : 3
+
+Leader:
+7D33 : HALFELF#CLR#PANROS#(2,0)#47#[6#11#10#6#7#11]#(HEAL,USE MAGIC DEVICES)#SMALL WOODEN SHIELD#STUN GUN#
+	10#76000#28#()#
+
+7E1  : Equipment:   (SHORT BOW)
+
+
+**Before Move #7:
+7B43 : O
+7B44 : O
+7B45 : O
+7B46 : O
+7B47 : O
+7B48 : O
+7B49 : X
+7B50 : O
+7B51 : O
+7B52 : O
+7B53 : O
+7B54 : O
+7B55 : O
+7B56 : O
+7B57 : O
+
+Leader:
+7B58 : HALFELF#CLR#PANROS#(2,0)#47#[6#11#10#6#7#11]#(HEAL,USE MAGIC DEVICES)#SMALL WOODEN SHIELD#SHORT BOW#
+	10#76000#28#()#
+
+7M1  : Move (units 1-6) (dir N,S,E,W) unit,dir:   (2,E)
+
+(2,2):57#[ADEAK,JAMIAN,KEVKUL,PANROS]##0#Learn and  achieve the skill of Spot
+
+
+*************************************************
+Mission #8:
+*************************************************
+
+**Before Deployment for round #8:
+
+8D24 : DAGGER : 4
+8D25 : GLOCK 171 : 1
+8D26 : GLOCK 201 : 1
+8D27 : LARGE WOODEN SHIELD : 1
+8D28 : LEATHER JACKET : 1
+8D29 : LONG SWORD : 1
+8D30 : RAPIER : 1
+8D31 : STUN GUN : 1
+8D32 : SWORD : 3
+
+Leader:
+8D33 : ORC#ROG#KEVKUL#(2,2)#35#[5#8#5#13#16#12]#(BLUFF,CLIMB,HIDE)#LEATHER#GREAT CLUB#
+	10#76000#21#(GLOCK 201,SHORT BOW)#
+
+8E1  : Equipment:   (DAGGER)
+
+
+**Before Move #8:
+8B44 : O
+8B45 : O
+8B46 : O
+8B47 : O
+8B48 : O
+8B49 : O
+8B50 : O
+8B51 : O
+8B52 : X
+8B53 : O
+8B54 : O
+8B55 : O
+8B56 : O
+8B57 : O
+8B58 : O
+
+Leader:
+8B59 : ORC#ROG#KEVKUL#(2,2)#35#[5#8#5#13#16#12]#(BLUFF,CLIMB,HIDE)#LEATHER#DAGGER#
+	10#76000#21#(GLOCK 201,SHORT BOW)#
+
+8M1  : Move (units 1-6) (dir N,S,E,W) unit,dir:   (1,W)
+
+(2,1):38#[ADEAK,JAMIAN,KEVKUL,PANROS]#CONCEALABLE VEST#0#A merchant is selling a Concealable vest
+
+
+*************************************************
+Mission #9:
+*************************************************
+
+**Before Deployment for round #9:
+
+9D25 : DAGGER : 3
+9D26 : GLOCK 171 : 1
+9D27 : GLOCK 201 : 1
+9D28 : GREAT CLUB : 1
+9D29 : LARGE WOODEN SHIELD : 1
+9D30 : LEATHER JACKET : 1
+9D31 : LONG SWORD : 1
+9D32 : RAPIER : 1
+9D33 : STUN GUN : 1
+9D34 : SWORD : 3
+
+Leader:
+9D35 : HUMAN#FTR#JAMIAN#(2,1)#44#[8#11#9#13#13#8]#()#RIOT SHIELD#SWORD#
+	10#76000#29#()#
+
+9E1  : Equipment:   (LONG SWORD)
+
+
+**Before Move #9:
+9B43 : O
+9B44 : O
+9B45 : O
+9B46 : O
+9B47 : O
+9B48 : O
+9B49 : O
+9B50 : X
+9B51 : O
+9B52 : O
+9B53 : O
+9B54 : O
+9B55 : O
+9B56 : O
+9B57 : O
+
+Leader:
+9B58 : HUMAN#FTR#JAMIAN#(2,1)#44#[8#11#9#13#13#8]#()#RIOT SHIELD#LONG SWORD#
+	10#76000#29#()#
+
+9M1  : Move (units 1-6) (dir N,S,E,W) unit,dir:   (1,N)
+
+(1,1):20#[ADEAK,JAMIAN,KEVKUL,PANROS]##0#OH my, encountered  red dragon breath
+
+
+*************************************************
+Mission #10:
+*************************************************
+
+**Before Deployment for round #10:
+
+10D24 : DAGGER : 3
+10D25 : GLOCK 171 : 1
+10D26 : GLOCK 201 : 1
+10D27 : GREAT CLUB : 1
+10D28 : LARGE WOODEN SHIELD : 1
+10D29 : LEATHER JACKET : 1
+10D30 : RAPIER : 1
+10D31 : STUN GUN : 1
+10D32 : SWORD : 4
+
+Leader:
+10D33 : ELF#WIZ#ADEAK#(1,1)#18#[15#8#11#10#10#15]#(CONCENTRATION,HIDE,USE MAGIC DEVICES)##DAGGER#
+	10#76000#27#(QUARTER STAFF)#
+
+10E1  : Equipment:   (SWORD)
+
+
+**Before Move #10:
+10B43 : O
+10B44 : O
+10B45 : O
+10B46 : O
+10B47 : X
+10B48 : O
+10B49 : O
+10B50 : O
+10B51 : O
+10B52 : O
+10B53 : O
+10B54 : O
+10B55 : O
+10B56 : O
+10B57 : O
+
+Leader:
+10B58 : ELF#WIZ#ADEAK#(1,1)#18#[15#8#11#10#10#15]#(CONCENTRATION,HIDE,USE MAGIC DEVICES)##SWORD#
+	10#76000#27#(QUARTER STAFF)#
+
+10M1  : Move (units 1-6) (dir N,S,E,W) unit,dir:   (1,E)
+
+(1,2):24#[ADEAK,JAMIAN,KEVKUL,PANROS]##0#OH my, experiencing a polymorph encounter
+
+
+*************************************************
+Mission #11:
+*************************************************
+
+**Before Deployment for round #11:
+
+11D24 : DAGGER : 4
+11D25 : GLOCK 171 : 1
+11D26 : GLOCK 201 : 1
+11D27 : GREAT CLUB : 1
+11D28 : LARGE WOODEN SHIELD : 1
+11D29 : LEATHER JACKET : 1
+11D30 : RAPIER : 1
+11D31 : STUN GUN : 1
+11D32 : SWORD : 3
+
+Leader:
+11D33 : HALFELF#CLR#PANROS#(1,2)#47#[6#11#10#6#7#11]#(HEAL,SPOT,USE MAGIC DEVICES)#SMALL WOODEN SHIELD#SHORT BOW#
+	10#76000#28#()#
+
+11E1  : Equipment:   (DAGGER)
+
+
+**Before Move #11:
+11B44 : O
+11B45 : O
+11B46 : O
+11B47 : O
+11B48 : O
+11B49 : X
+11B50 : O
+11B51 : O
+11B52 : O
+11B53 : O
+11B54 : O
+11B55 : O
+11B56 : O
+11B57 : O
+11B58 : O
+
+Leader:
+11B59 : HALFELF#CLR#PANROS#(1,2)#47#[6#11#10#6#7#11]#(HEAL,SPOT,USE MAGIC DEVICES)#SMALL WOODEN SHIELD#DAGGER#
+	10#76000#28#()#
+
+11M1  : Move (units 1-6) (dir N,S,E,W) unit,dir:   (1,S)
+
+(2,2):57#[ADEAK,JAMIAN,KEVKUL,PANROS]##0#Learn and  achieve the skill of Spot
+
+
+*************************************************
+Mission #12:
+*************************************************
+
+**Before Deployment for round #12:
+
+12D25 : DAGGER : 3
+12D26 : GLOCK 171 : 1
+12D27 : GLOCK 201 : 1
+12D28 : GREAT CLUB : 1
+12D29 : LARGE WOODEN SHIELD : 1
+12D30 : LEATHER JACKET : 1
+12D31 : RAPIER : 1
+12D32 : SHORT BOW : 1
+12D33 : STUN GUN : 1
+12D34 : SWORD : 3
+
+Leader:
+12D35 : ORC#ROG#KEVKUL#(2,2)#35#[5#8#5#13#16#12]#(BLUFF,CLIMB,HIDE)#CONCEALABLE VEST#DAGGER#
+	10#76000#6#(GLOCK 201,LEATHER,SHORT BOW)#
+
+12E1  : Equipment:   (LEATHER)
+
+
+**Before Move #12:
+12B44 : O
+12B45 : O
+12B46 : O
+12B47 : O
+12B48 : O
+12B49 : O
+12B50 : O
+12B51 : O
+12B52 : X
+12B53 : O
+12B54 : O
+12B55 : O
+12B56 : O
+12B57 : O
+12B58 : O
+
+Leader:
+12B59 : ORC#ROG#KEVKUL#(2,2)#35#[5#8#5#13#16#12]#(BLUFF,CLIMB,HIDE)#CONCEALABLE VEST#DAGGER#
+	10#76000#6#(GLOCK 201,LEATHER,SHORT BOW)#
+
+12M1  : Move (units 1-6) (dir N,S,E,W) unit,dir:   (1,W)
+
+(2,1):38#[ADEAK,JAMIAN,KEVKUL,PANROS]##0#A merchant is selling a Concealable vest
+
+
+*************************************************
+Mission #13:
+*************************************************
+
+**Before Deployment for round #13:
+
+13D25 : DAGGER : 3
+13D26 : GLOCK 171 : 1
+13D27 : GLOCK 201 : 1
+13D28 : GREAT CLUB : 1
+13D29 : LARGE WOODEN SHIELD : 1
+13D30 : LEATHER JACKET : 1
+13D31 : RAPIER : 1
+13D32 : SHORT BOW : 1
+13D33 : STUN GUN : 1
+13D34 : SWORD : 3
+
+Leader:
+13D35 : HUMAN#FTR#JAMIAN#(2,1)#39#[8#11#9#13#13#8]#()#RIOT SHIELD#LONG SWORD#
+	10#76000#29#()#
+
+13E1  : Equipment:   (SWORD)
+
+
+**Before Move #13:
+13B45 : O
+13B46 : O
+13B47 : O
+13B48 : O
+13B49 : O
+13B50 : O
+13B51 : O
+13B52 : X
+13B53 : O
+13B54 : O
+13B55 : O
+13B56 : O
+13B57 : O
+13B58 : O
+13B59 : O
+
+Leader:
+13B60 : HUMAN#FTR#JAMIAN#(2,1)#39#[8#11#9#13#13#8]#()#RIOT SHIELD#SWORD#
+	10#76000#29#()#
+
+13M1  : Move (units 1-6) (dir N,S,E,W) unit,dir:   (1,N)
+
+(1,1):20#[ADEAK,JAMIAN,KEVKUL,PANROS]##0#OH my, encountered  red dragon breath
+
+
+*************************************************
+Mission #14:
+*************************************************
+
+**Before Deployment for round #14:
+
+14D26 : DAGGER : 3
+14D27 : GLOCK 171 : 1
+14D28 : GLOCK 201 : 1
+14D29 : GREAT CLUB : 1
+14D30 : LARGE WOODEN SHIELD : 1
+14D31 : LEATHER JACKET : 1
+14D32 : LONG SWORD : 1
+14D33 : RAPIER : 1
+14D34 : SHORT BOW : 1
+14D35 : STUN GUN : 1
+14D36 : SWORD : 2
+
+Leader:
+14D37 : ELF#WIZ#ADEAK#(1,1)#18#[15#8#11#10#10#15]#(CONCENTRATION,HIDE,USE MAGIC DEVICES)##SWORD#
+	10#76000#27#(QUARTER STAFF)#
+
+14E1  : Equipment:   (DAGGER)
+
+
+**Before Move #14:
+14B45 : O
+14B46 : O
+14B47 : O
+14B48 : O
+14B49 : X
+14B50 : O
+14B51 : O
+14B52 : O
+14B53 : O
+14B54 : O
+14B55 : O
+14B56 : O
+14B57 : O
+14B58 : O
+14B59 : O
+
+Leader:
+14B60 : ELF#WIZ#ADEAK#(1,1)#18#[15#8#11#10#10#15]#(CONCENTRATION,HIDE,USE MAGIC DEVICES)##DAGGER#
+	10#76000#27#(QUARTER STAFF)#
+
+14M1  : Move (units 1-6) (dir N,S,E,W) unit,dir:   (1,E)
+
+(1,2):24#[ADEAK,JAMIAN,KEVKUL,PANROS]##0#OH my, experiencing a polymorph encounter
+
+
+*************************************************
+Mission #15:
+*************************************************
+
+**Before Deployment for round #15:
+
+15D26 : DAGGER : 2
+15D27 : GLOCK 171 : 1
+15D28 : GLOCK 201 : 1
+15D29 : GREAT CLUB : 1
+15D30 : LARGE WOODEN SHIELD : 1
+15D31 : LEATHER JACKET : 1
+15D32 : LONG SWORD : 1
+15D33 : RAPIER : 1
+15D34 : SHORT BOW : 1
+15D35 : STUN GUN : 1
+15D36 : SWORD : 3
+
+Leader:
+15D37 : HALFELF#CLR#PANROS#(1,2)#47#[6#11#10#6#7#11]#(HEAL,SPOT,USE MAGIC DEVICES)#SMALL WOODEN SHIELD#DAGGER#
+	10#76000#28#()#
+
+15E1  : Equipment:   (SWORD)
+
+
+**Before Move #15:
+15B45 : O
+15B46 : O
+15B47 : O
+15B48 : O
+15B49 : O
+15B50 : X
+15B51 : O
+15B52 : O
+15B53 : O
+15B54 : O
+15B55 : O
+15B56 : O
+15B57 : O
+15B58 : O
+15B59 : O
+
+Leader:
+15B60 : HALFELF#CLR#PANROS#(1,2)#47#[6#11#10#6#7#11]#(HEAL,SPOT,USE MAGIC DEVICES)#SMALL WOODEN SHIELD#SWORD#
+	10#76000#28#()#
+
+15M1  : Move (units 1-6) (dir N,S,E,W) unit,dir:   (2,W)
+
+(1,0):15#[ADEAK,JAMIAN,KEVKUL,PANROS]##0#OH my, encountered destruction
+
+
+*************************************************
+Mission #16:
+*************************************************
+
+**Before Deployment for round #16:
+
+16D26 : DAGGER : 3
+16D27 : GLOCK 171 : 1
+16D28 : GLOCK 201 : 1
+16D29 : GREAT CLUB : 1
+16D30 : LARGE WOODEN SHIELD : 1
+16D31 : LEATHER JACKET : 1
+16D32 : LONG SWORD : 1
+16D33 : RAPIER : 1
+16D34 : SHORT BOW : 1
+16D35 : STUN GUN : 1
+16D36 : SWORD : 2
+
+Leader:
+16D37 : ORC#ROG#KEVKUL#(1,0)#35#[5#8#5#13#16#12]#(BLUFF,CLIMB,HIDE)#CONCEALABLE VEST#DAGGER#
+	10#76000#6#(GLOCK 201,LEATHER,SHORT BOW)#
+
+16E1  : Equipment:   (GLOCK 201)
+
+
+**Before Move #16:
+16B44 : O
+16B45 : O
+16B46 : O
+16B47 : X
+16B48 : O
+16B49 : O
+16B50 : O
+16B51 : O
+16B52 : O
+16B53 : O
+16B54 : O
+16B55 : O
+16B56 : O
+16B57 : O
+16B58 : O
+
+Leader:
+16B59 : ORC#ROG#KEVKUL#(1,0)#35#[5#8#5#13#16#12]#(BLUFF,CLIMB,HIDE)#CONCEALABLE VEST#GLOCK 201#
+	10#76000#6#(GLOCK 201,LEATHER,SHORT BOW)#
+
+16M1  : Move (units 1-6) (dir N,S,E,W) unit,dir:   (1,N)
+
+(0,0):0#[ADEAK,ELGEON,JAMIAN,KEVKUL,PANROS]##0#WOW! Elgeon is found alive!
+
+

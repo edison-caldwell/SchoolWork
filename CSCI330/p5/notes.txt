@@ -1,0 +1,16 @@
+GetEquipment( ) 
+	-returns equip name "string"  *Covers validation as Equipment
+=====
+ONCE|| GetFirstMove( )
+=====	-Placement directly after deployment
+
+GetMove( ) 
+	- Move data
+	- Up to six units
+	- Direction NSEW
+	- *Covers validation
+
+Board is a singleton
+
+The fuck man? 
+

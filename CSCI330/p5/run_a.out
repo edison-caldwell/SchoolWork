@@ -1,0 +1,239 @@
+=============
+Program 5 output
+=============
+
+*************************************************
+Mission #1:
+*************************************************
+
+**Before Deployment for round #1:
+
+1D22 : DAGGER : 5
+1D23 : GLOCK 171 : 1
+1D24 : GLOCK 201 : 2
+1D25 : LEATHER JACKET : 1
+1D26 : RIOT SHIELD : 1
+1D27 : STUN GUN : 1
+1D28 : SWORD : 3
+
+Leader:
+1D29 : HUMAN#FTR#JAMIAN#(-1,-1)#44#[8#11#9#13#13#8]#(INTIMIDATE,SWIM)#LARGE WOODEN SHIELD#SWORD#
+	10#76000#29#()#
+
+1E1  : Equipment:   (STUN GUN)
+
+
+**Before Move #1:
+1B40 : O
+1B41 : O
+1B42 : O
+1B43 : O
+1B44 : O
+1B45 : O
+1B46 : O
+1B47 : O
+1B48 : O
+1B49 : O
+1B50 : O
+1B51 : O
+1B52 : O
+1B53 : O
+1B54 : O
+
+Leader:
+1B55 : HUMAN#FTR#JAMIAN#(-1,-1)#44#[8#11#9#13#13#8]#(INTIMIDATE,SWIM)#LARGE WOODEN SHIELD#STUN GUN#
+	10#76000#29#()#
+
+1M1  : Placement row,col:   (2,1)
+
+(2,1):38#[ADEAK,JAMIAN,KEVKUL,PANROS]#CONCEALABLE VEST#0#A merchant is selling a Concealable vest
+
+
+*************************************************
+Mission #2:
+*************************************************
+
+**Before Deployment for round #2:
+
+2D21 : DAGGER : 5
+2D22 : GLOCK 171 : 1
+2D23 : GLOCK 201 : 2
+2D24 : LEATHER JACKET : 1
+2D25 : RIOT SHIELD : 1
+2D26 : SWORD : 4
+
+Leader:
+2D27 : ELF#WIZ#ADEAK#(2,1)#18#[15#8#11#10#10#15]#(CONCENTRATION,HIDE,USE MAGIC DEVICES)##SHORT BOW#
+	10#76000#27#(QUARTER STAFF)#
+
+2E1  : Equipment:   (DAGGER)
+
+
+**Before Move #2:
+2B41 : O
+2B42 : O
+2B43 : O
+2B44 : O
+2B45 : O
+2B46 : O
+2B47 : O
+2B48 : X
+2B49 : O
+2B50 : O
+2B51 : O
+2B52 : O
+2B53 : O
+2B54 : O
+2B55 : O
+
+Leader:
+2B56 : ELF#WIZ#ADEAK#(2,1)#18#[15#8#11#10#10#15]#(CONCENTRATION,HIDE,USE MAGIC DEVICES)##DAGGER#
+	10#76000#27#(QUARTER STAFF)#
+
+2M1  : Move (units 1-6) (dir N,S,E,W) unit,dir:   (2,S)
+
+(4,1):78#[ADEAK,JAMIAN,KEVKUL,PANROS]##0#team found a magic wand - need Use Magic Devices skillck
+
+
+*************************************************
+Mission #3:
+*************************************************
+
+**Before Deployment for round #3:
+
+3D22 : DAGGER : 4
+3D23 : GLOCK 171 : 1
+3D24 : GLOCK 201 : 2
+3D25 : LEATHER JACKET : 1
+3D26 : RIOT SHIELD : 1
+3D27 : SHORT BOW : 1
+3D28 : SWORD : 4
+
+Leader:
+3D29 : HALFELF#CLR#PANROS#(4,1)#67#[6#11#10#6#7#11]#(HEAL,USE MAGIC DEVICES)#SMALL WOODEN SHIELD#LONG SWORD#
+	10#76000#28#()#
+
+3E1  : Equipment:   (LEATHER JACKET)
+
+
+**Before Move #3:
+3B41 : O
+3B42 : O
+3B43 : O
+3B44 : O
+3B45 : O
+3B46 : O
+3B47 : O
+3B48 : O
+3B49 : O
+3B50 : O
+3B51 : O
+3B52 : O
+3B53 : O
+3B54 : X
+3B55 : O
+
+Leader:
+3B56 : HALFELF#CLR#PANROS#(4,1)#67#[6#11#10#6#7#11]#(HEAL,USE MAGIC DEVICES)#LEATHER JACKET#LONG SWORD#
+	10#76000#28#()#
+
+3M1  : Move (units 1-6) (dir N,S,E,W) unit,dir:   (1,E)
+
+(4,2):82#[ADEAK,JAMIAN,KEVKUL,PANROS]##0#team has fallen victim of a trap - need  Disable Device skillck
+
+
+*************************************************
+Mission #4:
+*************************************************
+
+**Before Deployment for round #4:
+
+4D22 : DAGGER : 4
+4D23 : GLOCK 171 : 1
+4D24 : GLOCK 201 : 2
+4D25 : RIOT SHIELD : 1
+4D26 : SHORT BOW : 1
+4D27 : SMALL WOODEN SHIELD : 1
+4D28 : SWORD : 4
+
+Leader:
+4D29 : ORC#ROG#KEVKUL#(4,2)#45#[5#8#5#13#16#12]#(BLUFF,CLIMB,HIDE)#LEATHER#RAPIER#
+	10#76000#27#(SHORT BOW)#
+
+4E1  : Equipment:   (GLOCK 201)
+
+
+**Before Move #4:
+4B42 : O
+4B43 : O
+4B44 : O
+4B45 : O
+4B46 : O
+4B47 : O
+4B48 : O
+4B49 : O
+4B50 : O
+4B51 : O
+4B52 : O
+4B53 : O
+4B54 : O
+4B55 : O
+4B56 : X
+
+Leader:
+4B57 : ORC#ROG#KEVKUL#(4,2)#45#[5#8#5#13#16#12]#(BLUFF,CLIMB,HIDE)#LEATHER#GLOCK 201#
+	10#76000#27#(SHORT BOW)#
+
+4M1  : Move (units 1-6) (dir N,S,E,W) unit,dir:   (4,N)
+
+(0,2):7#[ADEAK,JAMIAN,JANUVIAL,KEVKUL,PANROS]##0#Combat is upon us!  We battle the Ogre Januvial
+
+
+*************************************************
+Mission #5:
+*************************************************
+
+**Before Deployment for round #5:
+
+5D23 : DAGGER : 4
+5D24 : GLOCK 171 : 1
+5D25 : GLOCK 201 : 1
+5D26 : RAPIER : 1
+5D27 : RIOT SHIELD : 1
+5D28 : SHORT BOW : 1
+5D29 : SMALL WOODEN SHIELD : 1
+5D30 : SWORD : 4
+
+Leader:
+5D31 : HUMAN#FTR#JAMIAN#(0,2)#54#[8#11#9#13#13#8]#(INTIMIDATE,SWIM)#CONCEALABLE VEST#STUN GUN#
+	10#76000#14#(LARGE WOODEN SHIELD)#
+
+5E1  : Equipment:   (RIOT SHIELD)
+
+
+**Before Move #5:
+5B42 : O
+5B43 : O
+5B44 : X
+5B45 : O
+5B46 : O
+5B47 : O
+5B48 : O
+5B49 : O
+5B50 : O
+5B51 : O
+5B52 : O
+5B53 : O
+5B54 : O
+5B55 : O
+5B56 : O
+
+Leader:
+5B57 : HUMAN#FTR#JAMIAN#(0,2)#54#[8#11#9#13#13#8]#(INTIMIDATE,SWIM)#RIOT SHIELD#STUN GUN#
+	10#76000#14#(LARGE WOODEN SHIELD)#
+
+5M1  : Move (units 1-6) (dir N,S,E,W) unit,dir:   (2,W)
+
+(0,0):0#[ADEAK,ELGEON,JAMIAN,KEVKUL,PANROS]##0#WOW! Elgeon is found alive!
+
+
