@@ -1,0 +1,11 @@
+In file included from lab1.cpp:5:
+ispal.cpp:3: error: expected initializer before ‘void’
+ispal.cpp: In function ‘void TestIsPal()’:
+ispal.cpp:93: error: ‘PrintTest’ was not declared in this scope
+ispal.cpp:96: error: ‘PrintIfPal’ was not declared in this scope
+ispal.cpp: In function ‘void PrintIfPal(bool, StrClass)’:
+ispal.cpp:150: error: ‘class StrClass’ has no member named ‘Length’
+ispal.cpp:154: error: ‘class StrClass’ has no member named ‘Length’
+lab1.cpp: In function ‘void TestIsPal()’:
+lab1.cpp:279: error: redefinition of ‘void TestIsPal()’
+ispal.cpp:87: error: ‘void TestIsPal()’ previously defined here

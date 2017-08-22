@@ -1,0 +1,13 @@
+total 48
+-rw-------. 1 zimmer faculty  665 Sep 12 15:25 compile_error.out
+-rw-------. 1 zimmer faculty  143 Sep 12 15:25 diff.out
+-rw-r-----. 1 zimmer faculty 3835 Sep 12 13:32 ispal.cpp
+-rw-r-----. 1 zimmer faculty 6072 Sep 12 15:25 lab1.cpp
+-rw-r-----. 1 zimmer faculty  793 Sep 12 15:25 lab1.h
+-rw-------. 1 zimmer faculty   59 Sep 12 15:25 link_error.out
+-rw-------. 1 zimmer faculty   48 Sep 12 15:25 mem.out
+-rw-------. 1 zimmer faculty  101 Sep 12 15:25 run_error.out
+-rw-------. 1 zimmer faculty    0 Sep 12 15:25 run.out
+-rwx------. 1 zimmer faculty  285 Sep 12 15:25 scrlab1
+-rw-------. 1 zimmer faculty   17 Sep 12 15:25 scrlab1.out
+-rw-------. 1 zimmer faculty  108 Sep 12 15:25 z.out
