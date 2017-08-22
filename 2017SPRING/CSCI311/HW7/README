@@ -1,0 +1,7 @@
+The program searcher is intended to be used to recover a lost password given the one-way encrypted password and SALT value be provided. 
+The command line arguments required to run the program include -N followed by and integer value (diminishing returns for integers larger than 8).
+This integer argument will determine the number of threads to create to attempt to recover the password in parralel. If the password is found by a process
+it is writen to a file named password. This file will also include the time elapsed to find the password. The program searcher is just a waiting process that creates
+worker processes for it. The actual recovery of the password is handled by a program called cracker. Through the execv system call these worker threads are created
+and attempt to acomplish the task in parralel. To alter the password to be recovered one only needs to alter the global variables within cracker.cpp (the encrypted password as
+well as the cooresponding salt value).

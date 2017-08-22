@@ -1,0 +1,5 @@
+2, Austin Porter, 89, Senior, Edinboro
+4, Denver Caldwell, 145, Graduate, Slippery Rock
+7, Zach Fagsbury, 40, Sophmore, Edinboro
+3, Sophia Rose, 18, Freshman, IUP
+10, Josh Caton, 145, Graduate, CalU

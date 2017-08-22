@@ -1,0 +1,179 @@
+Script started on Mon 03 Apr 2017 08:30:21 AM EDT
+]0;cslab165:/home/CS/e737108c/2017SPRING/CSCI475[0;33m[32m[e737108c.cslab165: CSCI475]$[0m ./server 55111&
+[1] 5420
+
+
+Bind failure
+
+: Address already in use
+]0;cslab165:/home/CS/e737108c/2017SPRING/CSCI475[1]+  Exit 1                  ./server 55111
+[0;33m[32m[e737108c.cslab165: CSCI475]$[0m ./server 55111&[1P&[1P&[1P&2&2&2&
+[1] 5434
+]0;cslab165:/home/CS/e737108c/2017SPRING/CSCI475[0;33m[32m[e737108c.cslab165: CSCI475]$[0m ifconfig
+eth0: flags=4163<UP,BROADCAST,RUNNING,MULTICAST>  mtu 1500
+        inet 147.64.242.165  netmask 255.255.254.0  broadcast 147.64.243.255
+        inet6 fe80::6600:6aff:fe41:56c9  prefixlen 64  scopeid 0x20<link>
+        ether 64:00:6a:41:56:c9  txqueuelen 1000  (Ethernet)
+        RX packets 272601  bytes 168038894 (160.2 MiB)
+        RX errors 0  dropped 0  overruns 0  frame 0
+        TX packets 320725  bytes 314394440 (299.8 MiB)
+        TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0
+        device interrupt 19  memory 0xf7f00000-f7f20000  
+
+lo: flags=73<UP,LOOPBACK,RUNNING>  mtu 65536
+        inet 127.0.0.1  netmask 255.0.0.0
+        inet6 ::1  prefixlen 128  scopeid 0x10<host>
+        loop  txqueuelen 1  (Local Loopback)
+        RX packets 457  bytes 18871 (18.4 KiB)
+        RX errors 0  dropped 0  overruns 0  frame 0
+        TX packets 457  bytes 18871 (18.4 KiB)
+        TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0
+
+]0;cslab165:/home/CS/e737108c/2017SPRING/CSCI475[0;33m[32m[e737108c.cslab165: CSCI475]$[0m 
+
+Server recieved datagram from cslab170.cs.edinboro.edu (147.64.242.170)
+Server recieved 11/11 bytes: Ping 1 3.67
+
+
+Server recieved datagram from cslab170.cs.edinboro.edu (147.64.242.170)
+Server recieved 12/12 bytes: Ping 2 3.979
+
+
+Server recieved datagram from cslab170.cs.edinboro.edu (147.64.242.170)
+Server recieved 12/12 bytes: Ping 3 4.144
+
+
+Server recieved datagram from cslab170.cs.edinboro.edu (147.64.242.170)
+Server recieved 12/12 bytes: Ping 4 4.306
+
+
+Server recieved datagram from cslab170.cs.edinboro.edu (147.64.242.170)
+Server recieved 12/12 bytes: Ping 5 4.423
+
+
+Server recieved datagram from cslab170.cs.edinboro.edu (147.64.242.170)
+Server recieved 12/12 bytes: Ping 6 4.536
+
+
+Server recieved datagram from cslab170.cs.edinboro.edu (147.64.242.170)
+Server recieved 12/12 bytes: Ping 8 4.739
+
+
+Server recieved datagram from cslab170.cs.edinboro.edu (147.64.242.170)
+Server recieved 12/12 bytes: Ping 9 4.949
+
+
+Server recieved datagram from cslab170.cs.edinboro.edu (147.64.242.170)
+Server recieved 13/13 bytes: Ping 10 5.119
+
+
+Server recieved datagram from cslab170.cs.edinboro.edu (147.64.242.170)
+Server recieved 11/11 bytes: Ping 1 3.55
+
+
+Server recieved datagram from cslab170.cs.edinboro.edu (147.64.242.170)
+Server recieved 12/12 bytes: Ping 3 4.022
+
+
+Server recieved datagram from cslab170.cs.edinboro.edu (147.64.242.170)
+Server recieved 12/12 bytes: Ping 4 4.213
+
+
+Server recieved datagram from cslab170.cs.edinboro.edu (147.64.242.170)
+Server recieved 12/12 bytes: Ping 5 4.371
+
+
+Server recieved datagram from cslab170.cs.edinboro.edu (147.64.242.170)
+Server recieved 12/12 bytes: Ping 6 4.533
+
+
+Server recieved datagram from cslab170.cs.edinboro.edu (147.64.242.170)
+Server recieved 11/11 bytes: Ping 7 4.73
+
+
+Server recieved datagram from cslab170.cs.edinboro.edu (147.64.242.170)
+Server recieved 12/12 bytes: Ping 9 5.026
+
+
+Server recieved datagram from cslab170.cs.edinboro.edu (147.64.242.170)
+Server recieved 12/12 bytes: Ping 1 3.475
+
+
+Server recieved datagram from cslab170.cs.edinboro.edu (147.64.242.170)
+Server recieved 12/12 bytes: Ping 2 3.842
+
+
+Server recieved datagram from cslab170.cs.edinboro.edu (147.64.242.170)
+Server recieved 11/11 bytes: Ping 4 4.26
+
+
+Server recieved datagram from cslab170.cs.edinboro.edu (147.64.242.170)
+Server recieved 12/12 bytes: Ping 5 4.442
+
+
+Server recieved datagram from cslab170.cs.edinboro.edu (147.64.242.170)
+Server recieved 12/12 bytes: Ping 7 4.751
+
+
+Server recieved datagram from cslab170.cs.edinboro.edu (147.64.242.170)
+Server recieved 12/12 bytes: Ping 8 4.947
+
+
+Server recieved datagram from cslab170.cs.edinboro.edu (147.64.242.170)
+Server recieved 13/13 bytes: Ping 10 5.255
+
+
+Server recieved datagram from cslab170.cs.edinboro.edu (147.64.242.170)
+Server recieved 12/12 bytes: Ping 2 3.763
+
+
+Server recieved datagram from cslab170.cs.edinboro.edu (147.64.242.170)
+Server recieved 11/11 bytes: Ping 3 4.04
+
+
+Server recieved datagram from cslab170.cs.edinboro.edu (147.64.242.170)
+Server recieved 11/11 bytes: Ping 5 4.35
+
+
+Server recieved datagram from cslab170.cs.edinboro.edu (147.64.242.170)
+Server recieved 12/12 bytes: Ping 6 4.551
+
+
+Server recieved datagram from cslab170.cs.edinboro.edu (147.64.242.170)
+Server recieved 12/12 bytes: Ping 7 4.716
+
+
+Server recieved datagram from cslab170.cs.edinboro.edu (147.64.242.170)
+Server recieved 12/12 bytes: Ping 8 4.882
+
+
+Server recieved datagram from cslab170.cs.edinboro.edu (147.64.242.170)
+Server recieved 12/12 bytes: Ping 1 3.308
+
+
+Server recieved datagram from cslab170.cs.edinboro.edu (147.64.242.170)
+Server recieved 12/12 bytes: Ping 2 3.614
+
+
+Server recieved datagram from cslab170.cs.edinboro.edu (147.64.242.170)
+Server recieved 12/12 bytes: Ping 3 3.764
+
+
+Server recieved datagram from cslab170.cs.edinboro.edu (147.64.242.170)
+Server recieved 12/12 bytes: Ping 6 4.227
+
+
+Server recieved datagram from cslab170.cs.edinboro.edu (147.64.242.170)
+Server recieved 12/12 bytes: Ping 7 4.413
+
+
+Server recieved datagram from cslab170.cs.edinboro.edu (147.64.242.170)
+Server recieved 11/11 bytes: Ping 8 4.57
+
+
+Server recieved datagram from cslab170.cs.edinboro.edu (147.64.242.170)
+Server recieved 12/12 bytes: Ping 9 4.724
+exit
+exit
+
+Script done on Mon 03 Apr 2017 08:31:49 AM EDT

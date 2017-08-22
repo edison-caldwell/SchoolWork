@@ -1,0 +1,4 @@
+1121, Algebra, 4
+0870, Calculus, 5
+0080, Remedial Algebra, 3
+0330, Object Oriented Programming III, 5

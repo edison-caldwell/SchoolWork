@@ -1,0 +1,5 @@
+xd is unfinished but does compile and run.
+sorter is implemeneted using shared memory. Due to the lack of an ascii conversion in c/c++ from integers there is extra data in
+the output file that is generated. 
+sorter requires two execution arguments, the first being the input file and the second the output file. 
+Family obliations kept from further development on unfinished work.

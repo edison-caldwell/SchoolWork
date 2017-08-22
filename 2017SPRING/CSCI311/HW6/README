@@ -1,0 +1,3 @@
+MASH is a c implementation of a bash shell. There are only a few commands
+associated with the shell and a few easter eggs. When the program is first
+executed the commands will be given. Please note that the RECOMPILE command only relates to mash. 

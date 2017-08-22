@@ -1,0 +1,4 @@
+The program treestat was built around the system call nftw(), which uses calls to stat()/lstat() to recursivly walk through all
+directories and their children. The base case for each recursive call is when no subdirectories exist. As the program discovers new files, 
+the type of file is recorded and a total count is kept. Any directory used as an argument must be preceeded by '/' else the process will terminate.
+If no argument is given when the program is executed then the current working directory will be used.   

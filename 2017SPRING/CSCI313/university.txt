@@ -1,0 +1,5 @@
+Edinboro, Edinboro PA, 7000, 185
+Ganon, Erie PA, 9000, 120
+Slippery Rock, Slippery Rock PA, 12000, 86
+IUP, Indiana PA, 9000, 130
+PITT, Pittsburgh PA, 18000, 7

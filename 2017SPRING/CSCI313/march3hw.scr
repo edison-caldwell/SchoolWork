@@ -1,0 +1,189 @@
+Script started on Fri 10 Mar 2017 01:54:54 AM EST
+]0;csci313:/home/CS/e737108c/2017SPRING/CSCI313[?1034h[0;33m[32m[e737108c.csci313: CSCI313]$[0m mysql -u e737108c -p
+Enter password: 
+ERROR 1045 (28000): Access denied for user 'e737108c'@'localhost' (using password: YES)
+]0;csci313:/home/CS/e737108c/2017SPRING/CSCI313[0;33m[31m[e737108c.csci313: CSCI313]$[0m mysql -u e737108c -p
+Enter password: 
+ERROR 1045 (28000): Access denied for user 'e737108c'@'localhost' (using password: YES)
+]0;csci313:/home/CS/e737108c/2017SPRING/CSCI313[0;33m[31m[e737108c.csci313: CSCI313]$[0m mysql -u e737108c -p
+Enter password: 
+Welcome to the MySQL monitor.  Commands end with ; or \g.
+Your MySQL connection id is 6686
+Server version: 5.1.73 Source distribution
+
+Copyright (c) 2000, 2013, Oracle and/or its affiliates. All rights reserved.
+
+Oracle is a registered trademark of Oracle Corporation and/or its
+affiliates. Other names may be trademarks of their respective
+owners.
+
+Type 'help;' or '\h' for help. Type '\c' to clear the current input statement.
+
+[?1034hmysql> use e737108c
+Reading table information for completion of table and column names
+You can turn off this feature to get a quicker startup with -A
+
+Database changed
+mysql> show tables;
++----------------------+
+| Tables_in_e737108c   |
++----------------------+
+| Agents               |
+| AlgebraRoster        |
+| AlgebraScantronCodes |
+| Artists              |
+| Classes              |
+| Enrolled             |
+| Played               |
+| Students             |
+| University           |
+| Venues               |
+| clubs                |
++----------------------+
+11 rows in set (0.00 sec)
+
+mysql> describe Students;[K;
++---------+-------------+------+-----+---------+-------+
+| Field   | Type        | Null | Key | Default | Extra |
++---------+-------------+------+-----+---------+-------+
+| id      | int(11)     | NO   | PRI | NULL    |       |
+| name    | varchar(50) | NO   |     | NULL    |       |
+| credits | int(11)     | YES  |     | NULL    |       |
+| year    | varchar(50) | YES  |     | NULL    |       |
+| attends | varchar(50) | NO   | MUL | NULL    |       |
++---------+-------------+------+-----+---------+-------+
+5 rows in set (0.00 sec)
+
+mysql> describe University;
++------------+-------------+------+-----+---------+-------+
+| Field      | Type        | Null | Key | Default | Extra |
++------------+-------------+------+-----+---------+-------+
+| name       | varchar(50) | NO   | PRI |         |       |
+| address    | varchar(50) | YES  |     | NULL    |       |
+| enrollment | int(11)     | YES  |     | NULL    |       |
+| ranking    | int(11)     | NO   | PRI | 0       |       |
++------------+-------------+------+-----+---------+-------+
+4 rows in set (0.01 sec)
+
+mysql> describe Classes;
++---------+-------------+------+-----+---------+-------+
+| Field   | Type        | Null | Key | Default | Extra |
++---------+-------------+------+-----+---------+-------+
+| classID | int(11)     | NO   | PRI | NULL    |       |
+| name    | varchar(50) | NO   | PRI | NULL    |       |
+| credits | int(11)     | YES  |     | NULL    |       |
++---------+-------------+------+-----+---------+-------+
+3 rows in set (0.00 sec)
+
+mysql> describe Enrolled;
++-------------+-------------+------+-----+---------+-------+
+| Field       | Type        | Null | Key | Default | Extra |
++-------------+-------------+------+-----+---------+-------+
+| className   | varchar(50) | YES  |     | NULL    |       |
+| studentName | varchar(50) | YES  |     | NULL    |       |
+| classID     | int(11)     | NO   | MUL | NULL    |       |
+| studentID   | int(11)     | NO   | MUL | NULL    |       |
++-------------+-------------+------+-----+---------+-------+
+4 rows in set (0.00 sec)
+
+mysql> describe AlgebraRoser[K[Kter;
++-------+-------------+------+-----+---------+-------+
+| Field | Type        | Null | Key | Default | Extra |
++-------+-------------+------+-----+---------+-------+
+| name  | varchar(50) | YES  |     | NULL    |       |
+| id    | int(11)     | NO   |     | NULL    |       |
++-------+-------------+------+-----+---------+-------+
+2 rows in set (0.00 sec)
+
+mysql> De[K[Kdescribe Alge br[K[K[Kbre[Ka S[K[KScanr[KtronCodes;
++-------+---------+------+-----+---------+-------+
+| Field | Type    | Null | Key | Default | Extra |
++-------+---------+------+-----+---------+-------+
+| id    | int(11) | NO   |     | NULL    |       |
++-------+---------+------+-----+---------+-------+
+1 row in set (0.00 sec)
+
+mysql> select * from Students;
++----+-----------------+---------+----------+---------------+
+| id | name            | credits | year     | attends       |
++----+-----------------+---------+----------+---------------+
+|  1 | Edison Caldwell |     124 | Senior   | Edinboro      |
+|  7 | Zach Fagsbury   |      40 | Sophmore | Edinboro      |
+|  3 | Sophia Rose     |      18 | Freshman | IUP           |
+|  4 | Denver Caldwell |     145 | Graduate | Slippery Rock |
+|  2 | Austin Porter   |      89 | Senior   | Edinboro      |
+| 10 | Josh Caton      |     145 | Graduate | CalU          |
++----+-----------------+---------+----------+---------------+
+6 rows in set (0.00 sec)
+
+mysql> Select * from University;
++---------------+------------------+------------+---------+
+| name          | address          | enrollment | ranking |
++---------------+------------------+------------+---------+
+| Edinboro      | Edinboro PA      |       7000 |     185 |
+| Ganon         | Erie PA          |       9000 |     120 |
+| Slippery Rock | Slippery Rock PA |      12000 |      86 |
+| IUP           | Indiana PA       |       9000 |     130 |
+| PITT          | Pittsburgh PA    |      18000 |       7 |
++---------------+------------------+------------+---------+
+5 rows in set (0.00 sec)
+
+mysql> Select * from Classes;
++---------+---------------------------------+---------+
+| classID | name                            | credits |
++---------+---------------------------------+---------+
+|    1121 | Algebra                         |       4 |
+|     870 | Calculus                        |       5 |
+|      80 | Remedial Algebra                |       3 |
+|     330 | Object Oriented Programming III |       5 |
++---------+---------------------------------+---------+
+4 rows in set (0.00 sec)
+
+mysql> Select ([K* from Enrolled;
++---------------------------------+-----------------+---------+-----------+
+| className                       | studentName     | classID | studentID |
++---------------------------------+-----------------+---------+-----------+
+| Remedial Algebra                | Austin Porter   |      80 |         2 |
+| Calculus                        | Edison Caldwell |     870 |         1 |
+| Algebra                         | Sophia Rose     |    1121 |         3 |
+| Object Oriented Programming III | Josh Caton      |     330 |        10 |
+| Algebra                         | Edison Caldwell |     870 |         1 |
+| Algebra                         | Denver Caldwell |    1121 |         4 |
+| Algebra                         | Josh Caton      |     330 |        10 |
++---------------------------------+-----------------+---------+-----------+
+7 rows in set (0.00 sec)
+
+mysql> select * from AlgebraRoster;
++-----------------+----+
+| name            | id |
++-----------------+----+
+| Sophia Rose     |  3 |
+| Edison Caldwell |  1 |
+| Denver Caldwell |  4 |
+| Josh Caton      | 10 |
++-----------------+----+
+4 rows in set (0.00 sec)
+
+mysql> Select * from AlgebraScantronCodes;
++----+
+| id |
++----+
+|  3 |
+|  1 |
+|  4 |
+| 10 |
++----+
+4 rows in set (0.00 sec)
+
+mysql> drop view AlgebraRosterl[K;
+Query OK, 0 rows affected (0.00 sec)
+
+mysql> drop view AlgebraScantronCodes;
+Query OK, 0 rows affected (0.00 sec)
+
+mysql> exit;
+Bye
+]0;csci313:/home/CS/e737108c/2017SPRING/CSCI313[0;33m[32m[e737108c.csci313: CSCI313]$[0m exit
+exit
+
+Script done on Fri 10 Mar 2017 01:58:19 AM EST
