@@ -1,0 +1,2879 @@
+Script started on Tue 08 Nov 2016 05:16:12 PM EST
+]0;edison@edison-HP-15-Notebook-PC: ~/Documents/CSCI385/assign4edison@edison-HP-15-Notebook-PC:~/Documents/CSCI385/assign4$ exitclear./runc++ HashTable.o Bucket.o hclient.o -o run-c HashTable.cpp Bucket.cpp hclient.cpp
+]0;edison@edison-HP-15-Notebook-PC: ~/Documents/CSCI385/assign4edison@edison-HP-15-Notebook-PC:~/Documents/CSCI385/assign4$ c++ -c HashTable.cpp Bucket.cpp hclient.cppexit[Kclear./runc++ HashTable.o Bucket.o hclient.o -o run
+]0;edison@edison-HP-15-Notebook-PC: ~/Documents/CSCI385/assign4edison@edison-HP-15-Notebook-PC:~/Documents/CSCI385/assign4$ c++ HashTable.o Bucket.o hclient.o -o run-c HashTable.cpp Bucket.cpp hclient.cppexit[Kclear./run
+Hash table size 25 created.
+Hash table size 50 created.
+Hash table size 100 created.
+Hash table size 200 created.
+Hash table size 250 created.
+Hash table size 25 created.
+Hash table size 50 created.
+Hash table size 100 created.
+Hash table size 200 created.
+Hash table size 250 created.
+Bucket: 0
+|-90||-60||-110|
+
+Bucket: 1
+|91|
+
+Bucket: 2
+|102||62||22||-72|
+
+Bucket: 3
+|3||123|
+
+Bucket: 4
+|94||-54|
+
+Bucket: 5
+|-115||-105||-95||-105|
+
+Bucket: 6
+|-16||-86||26|
+
+Bucket: 7
+|-107||-37|
+
+Bucket: 8
+|-78||-68||28|
+
+Bucket: 9
+|29|
+
+
+Hash table with 25 units.
+|Probes for -125: 5|
+|Probes for -124: 3|
+|Probes for -123: 3|
+|Probes for -122: 5|
+|Probes for -121: 2|
+|Probes for -120: 4|
+|Probes for -119: 2|
+|Probes for -118: 4|
+|Probes for -117: 3|
+|Probes for -116: 4|
+|Probes for -115: 1|
+|Probes for -114: 3|
+|Probes for -113: 3|
+|Probes for -112: 5|
+|Probes for -111: 2|
+|Probes for -110: 3|
+|Probes for -109: 2|
+|Probes for -108: 4|
+|Probes for -107: 1|
+|Probes for -106: 4|
+|Probes for -105: 2|
+|Probes for -104: 3|
+|Probes for -103: 3|
+|Probes for -102: 5|
+|Probes for -101: 2|
+|Probes for -100: 4|
+|Probes for -99: 2|
+|Probes for -98: 4|
+|Probes for -97: 3|
+|Probes for -96: 4|
+|Probes for -95: 3|
+|Probes for -94: 3|
+|Probes for -93: 3|
+|Probes for -92: 5|
+|Probes for -91: 2|
+|Probes for -90: 1|
+|Probes for -89: 2|
+|Probes for -88: 4|
+|Probes for -87: 3|
+|Probes for -86: 2|
+|Probes for -85: 5|
+|Probes for -84: 3|
+|Probes for -83: 3|
+|Probes for -82: 5|
+|Probes for -81: 2|
+|Probes for -80: 4|
+|Probes for -79: 2|
+|Probes for -78: 1|
+|Probes for -77: 3|
+|Probes for -76: 4|
+|Probes for -75: 5|
+|Probes for -74: 3|
+|Probes for -73: 3|
+|Probes for -72: 4|
+|Probes for -71: 2|
+|Probes for -70: 4|
+|Probes for -69: 2|
+|Probes for -68: 2|
+|Probes for -67: 3|
+|Probes for -66: 4|
+|Probes for -65: 5|
+|Probes for -64: 3|
+|Probes for -63: 3|
+|Probes for -62: 5|
+|Probes for -61: 2|
+|Probes for -60: 2|
+|Probes for -59: 2|
+|Probes for -58: 4|
+|Probes for -57: 3|
+|Probes for -56: 4|
+|Probes for -55: 5|
+|Probes for -54: 2|
+|Probes for -53: 3|
+|Probes for -52: 5|
+|Probes for -51: 2|
+|Probes for -50: 4|
+|Probes for -49: 2|
+|Probes for -48: 4|
+|Probes for -47: 3|
+|Probes for -46: 4|
+|Probes for -45: 5|
+|Probes for -44: 3|
+|Probes for -43: 3|
+|Probes for -42: 5|
+|Probes for -41: 2|
+|Probes for -40: 4|
+|Probes for -39: 2|
+|Probes for -38: 4|
+|Probes for -37: 2|
+|Probes for -36: 4|
+|Probes for -35: 5|
+|Probes for -34: 3|
+|Probes for -33: 3|
+|Probes for -32: 5|
+|Probes for -31: 2|
+|Probes for -30: 4|
+|Probes for -29: 2|
+|Probes for -28: 4|
+|Probes for -27: 3|
+|Probes for -26: 4|
+|Probes for -25: 5|
+|Probes for -24: 3|
+|Probes for -23: 3|
+|Probes for -22: 5|
+|Probes for -21: 2|
+|Probes for -20: 4|
+|Probes for -19: 2|
+|Probes for -18: 4|
+|Probes for -17: 3|
+|Probes for -16: 1|
+|Probes for -15: 5|
+|Probes for -14: 3|
+|Probes for -13: 3|
+|Probes for -12: 5|
+|Probes for -11: 2|
+|Probes for -10: 4|
+|Probes for -9: 2|
+|Probes for -8: 4|
+|Probes for -7: 3|
+|Probes for -6: 4|
+|Probes for -5: 5|
+|Probes for -4: 3|
+|Probes for -3: 3|
+|Probes for -2: 5|
+|Probes for -1: 2|
+|Probes for 0: 4|
+|Probes for 1: 2|
+|Probes for 2: 5|
+|Probes for 3: 1|
+|Probes for 4: 3|
+|Probes for 5: 5|
+|Probes for 6: 4|
+|Probes for 7: 3|
+|Probes for 8: 4|
+|Probes for 9: 2|
+|Probes for 10: 4|
+|Probes for 11: 2|
+|Probes for 12: 5|
+|Probes for 13: 3|
+|Probes for 14: 3|
+|Probes for 15: 5|
+|Probes for 16: 4|
+|Probes for 17: 3|
+|Probes for 18: 4|
+|Probes for 19: 2|
+|Probes for 20: 4|
+|Probes for 21: 2|
+|Probes for 22: 3|
+|Probes for 23: 3|
+|Probes for 24: 3|
+|Probes for 25: 5|
+|Probes for 26: 3|
+|Probes for 27: 3|
+|Probes for 28: 3|
+|Probes for 29: 1|
+|Probes for 30: 4|
+|Probes for 31: 2|
+|Probes for 32: 5|
+|Probes for 33: 3|
+|Probes for 34: 3|
+|Probes for 35: 5|
+|Probes for 36: 4|
+|Probes for 37: 3|
+|Probes for 38: 4|
+|Probes for 39: 2|
+|Probes for 40: 4|
+|Probes for 41: 2|
+|Probes for 42: 5|
+|Probes for 43: 3|
+|Probes for 44: 3|
+|Probes for 45: 5|
+|Probes for 46: 4|
+|Probes for 47: 3|
+|Probes for 48: 4|
+|Probes for 49: 2|
+|Probes for 50: 4|
+|Probes for 51: 2|
+|Probes for 52: 5|
+|Probes for 53: 3|
+|Probes for 54: 3|
+|Probes for 55: 5|
+|Probes for 56: 4|
+|Probes for 57: 3|
+|Probes for 58: 4|
+|Probes for 59: 2|
+|Probes for 60: 4|
+|Probes for 61: 2|
+|Probes for 62: 2|
+|Probes for 63: 3|
+|Probes for 64: 3|
+|Probes for 65: 5|
+|Probes for 66: 4|
+|Probes for 67: 3|
+|Probes for 68: 4|
+|Probes for 69: 2|
+|Probes for 70: 4|
+|Probes for 71: 2|
+|Probes for 72: 5|
+|Probes for 73: 3|
+|Probes for 74: 3|
+|Probes for 75: 5|
+|Probes for 76: 4|
+|Probes for 77: 3|
+|Probes for 78: 4|
+|Probes for 79: 2|
+|Probes for 80: 4|
+|Probes for 81: 2|
+|Probes for 82: 5|
+|Probes for 83: 3|
+|Probes for 84: 3|
+|Probes for 85: 5|
+|Probes for 86: 4|
+|Probes for 87: 3|
+|Probes for 88: 4|
+|Probes for 89: 2|
+|Probes for 90: 4|
+|Probes for 91: 1|
+|Probes for 92: 5|
+|Probes for 93: 3|
+|Probes for 94: 1|
+|Probes for 95: 5|
+|Probes for 96: 4|
+|Probes for 97: 3|
+|Probes for 98: 4|
+|Probes for 99: 2|
+|Probes for 100: 4|
+|Probes for 101: 2|
+|Probes for 102: 1|
+|Probes for 103: 3|
+|Probes for 104: 3|
+|Probes for 105: 5|
+|Probes for 106: 4|
+|Probes for 107: 3|
+|Probes for 108: 4|
+|Probes for 109: 2|
+|Probes for 110: 4|
+|Probes for 111: 2|
+|Probes for 112: 5|
+|Probes for 113: 3|
+|Probes for 114: 3|
+|Probes for 115: 5|
+|Probes for 116: 4|
+|Probes for 117: 3|
+|Probes for 118: 4|
+|Probes for 119: 2|
+|Probes for 120: 4|
+|Probes for 121: 2|
+|Probes for 122: 5|
+|Probes for 123: 2|
+|Probes for 124: 3|
+|Probes for 125: 5|
+
+
+Bucket: 0
+|-90||-60||-110||-110||0||80||40|
+
+Bucket: 1
+|91||-31||1||21|
+
+Bucket: 2
+|102||62||22||-72||-122||82|
+
+Bucket: 3
+|3||123||-33|
+
+Bucket: 4
+|94||-54||124||54|
+
+Bucket: 5
+|-115||-105||-95||-105||-15|
+
+Bucket: 6
+|-16||-86||26||46||6||46||66|
+
+Bucket: 7
+|-107||-37||97||47||57|
+
+Bucket: 8
+|-78||-68||28||-58||18|
+
+Bucket: 9
+|29||-99||-39||-49|
+
+
+Hash table with 50 units.
+|Probes for -125: 6|
+|Probes for -124: 5|
+|Probes for -123: 4|
+|Probes for -122: 5|
+|Probes for -121: 5|
+|Probes for -120: 8|
+|Probes for -119: 5|
+|Probes for -118: 6|
+|Probes for -117: 6|
+|Probes for -116: 8|
+|Probes for -115: 1|
+|Probes for -114: 5|
+|Probes for -113: 4|
+|Probes for -112: 7|
+|Probes for -111: 5|
+|Probes for -110: 3|
+|Probes for -109: 5|
+|Probes for -108: 6|
+|Probes for -107: 1|
+|Probes for -106: 8|
+|Probes for -105: 2|
+|Probes for -104: 5|
+|Probes for -103: 4|
+|Probes for -102: 7|
+|Probes for -101: 5|
+|Probes for -100: 8|
+|Probes for -99: 2|
+|Probes for -98: 6|
+|Probes for -97: 6|
+|Probes for -96: 8|
+|Probes for -95: 3|
+|Probes for -94: 5|
+|Probes for -93: 4|
+|Probes for -92: 7|
+|Probes for -91: 5|
+|Probes for -90: 1|
+|Probes for -89: 5|
+|Probes for -88: 6|
+|Probes for -87: 6|
+|Probes for -86: 2|
+|Probes for -85: 6|
+|Probes for -84: 5|
+|Probes for -83: 4|
+|Probes for -82: 7|
+|Probes for -81: 5|
+|Probes for -80: 8|
+|Probes for -79: 5|
+|Probes for -78: 1|
+|Probes for -77: 6|
+|Probes for -76: 8|
+|Probes for -75: 6|
+|Probes for -74: 5|
+|Probes for -73: 4|
+|Probes for -72: 4|
+|Probes for -71: 5|
+|Probes for -70: 8|
+|Probes for -69: 5|
+|Probes for -68: 2|
+|Probes for -67: 6|
+|Probes for -66: 8|
+|Probes for -65: 6|
+|Probes for -64: 5|
+|Probes for -63: 4|
+|Probes for -62: 7|
+|Probes for -61: 5|
+|Probes for -60: 2|
+|Probes for -59: 5|
+|Probes for -58: 4|
+|Probes for -57: 6|
+|Probes for -56: 8|
+|Probes for -55: 6|
+|Probes for -54: 2|
+|Probes for -53: 4|
+|Probes for -52: 7|
+|Probes for -51: 5|
+|Probes for -50: 8|
+|Probes for -49: 4|
+|Probes for -48: 6|
+|Probes for -47: 6|
+|Probes for -46: 8|
+|Probes for -45: 6|
+|Probes for -44: 5|
+|Probes for -43: 4|
+|Probes for -42: 7|
+|Probes for -41: 5|
+|Probes for -40: 8|
+|Probes for -39: 3|
+|Probes for -38: 6|
+|Probes for -37: 2|
+|Probes for -36: 8|
+|Probes for -35: 6|
+|Probes for -34: 5|
+|Probes for -33: 3|
+|Probes for -32: 7|
+|Probes for -31: 2|
+|Probes for -30: 8|
+|Probes for -29: 5|
+|Probes for -28: 6|
+|Probes for -27: 6|
+|Probes for -26: 8|
+|Probes for -25: 6|
+|Probes for -24: 5|
+|Probes for -23: 4|
+|Probes for -22: 7|
+|Probes for -21: 5|
+|Probes for -20: 8|
+|Probes for -19: 5|
+|Probes for -18: 6|
+|Probes for -17: 6|
+|Probes for -16: 1|
+|Probes for -15: 5|
+|Probes for -14: 5|
+|Probes for -13: 4|
+|Probes for -12: 7|
+|Probes for -11: 5|
+|Probes for -10: 8|
+|Probes for -9: 5|
+|Probes for -8: 6|
+|Probes for -7: 6|
+|Probes for -6: 8|
+|Probes for -5: 6|
+|Probes for -4: 5|
+|Probes for -3: 4|
+|Probes for -2: 7|
+|Probes for -1: 5|
+|Probes for 0: 5|
+|Probes for 1: 3|
+|Probes for 2: 7|
+|Probes for 3: 1|
+|Probes for 4: 5|
+|Probes for 5: 6|
+|Probes for 6: 5|
+|Probes for 7: 6|
+|Probes for 8: 6|
+|Probes for 9: 5|
+|Probes for 10: 8|
+|Probes for 11: 5|
+|Probes for 12: 7|
+|Probes for 13: 4|
+|Probes for 14: 5|
+|Probes for 15: 6|
+|Probes for 16: 8|
+|Probes for 17: 6|
+|Probes for 18: 5|
+|Probes for 19: 5|
+|Probes for 20: 8|
+|Probes for 21: 4|
+|Probes for 22: 3|
+|Probes for 23: 4|
+|Probes for 24: 5|
+|Probes for 25: 6|
+|Probes for 26: 3|
+|Probes for 27: 6|
+|Probes for 28: 3|
+|Probes for 29: 1|
+|Probes for 30: 8|
+|Probes for 31: 5|
+|Probes for 32: 7|
+|Probes for 33: 4|
+|Probes for 34: 5|
+|Probes for 35: 6|
+|Probes for 36: 8|
+|Probes for 37: 6|
+|Probes for 38: 6|
+|Probes for 39: 5|
+|Probes for 40: 7|
+|Probes for 41: 5|
+|Probes for 42: 7|
+|Probes for 43: 4|
+|Probes for 44: 5|
+|Probes for 45: 6|
+|Probes for 46: 4|
+|Probes for 47: 4|
+|Probes for 48: 6|
+|Probes for 49: 5|
+|Probes for 50: 8|
+|Probes for 51: 5|
+|Probes for 52: 7|
+|Probes for 53: 4|
+|Probes for 54: 4|
+|Probes for 55: 6|
+|Probes for 56: 8|
+|Probes for 57: 5|
+|Probes for 58: 6|
+|Probes for 59: 5|
+|Probes for 60: 8|
+|Probes for 61: 5|
+|Probes for 62: 2|
+|Probes for 63: 4|
+|Probes for 64: 5|
+|Probes for 65: 6|
+|Probes for 66: 7|
+|Probes for 67: 6|
+|Probes for 68: 6|
+|Probes for 69: 5|
+|Probes for 70: 8|
+|Probes for 71: 5|
+|Probes for 72: 7|
+|Probes for 73: 4|
+|Probes for 74: 5|
+|Probes for 75: 6|
+|Probes for 76: 8|
+|Probes for 77: 6|
+|Probes for 78: 6|
+|Probes for 79: 5|
+|Probes for 80: 6|
+|Probes for 81: 5|
+|Probes for 82: 6|
+|Probes for 83: 4|
+|Probes for 84: 5|
+|Probes for 85: 6|
+|Probes for 86: 8|
+|Probes for 87: 6|
+|Probes for 88: 6|
+|Probes for 89: 5|
+|Probes for 90: 8|
+|Probes for 91: 1|
+|Probes for 92: 7|
+|Probes for 93: 4|
+|Probes for 94: 1|
+|Probes for 95: 6|
+|Probes for 96: 8|
+|Probes for 97: 3|
+|Probes for 98: 6|
+|Probes for 99: 5|
+|Probes for 100: 8|
+|Probes for 101: 5|
+|Probes for 102: 1|
+|Probes for 103: 4|
+|Probes for 104: 5|
+|Probes for 105: 6|
+|Probes for 106: 8|
+|Probes for 107: 6|
+|Probes for 108: 6|
+|Probes for 109: 5|
+|Probes for 110: 8|
+|Probes for 111: 5|
+|Probes for 112: 7|
+|Probes for 113: 4|
+|Probes for 114: 5|
+|Probes for 115: 6|
+|Probes for 116: 8|
+|Probes for 117: 6|
+|Probes for 118: 6|
+|Probes for 119: 5|
+|Probes for 120: 8|
+|Probes for 121: 5|
+|Probes for 122: 7|
+|Probes for 123: 2|
+|Probes for 124: 3|
+|Probes for 125: 6|
+
+
+Bucket: 0
+|-90||-60||-110||-110||0||80||40||-110||-110||100||110|
+
+Bucket: 1
+|91||-31||1||21||-11||91||41||81||-11|
+
+Bucket: 2
+|102||62||22||-72||-122||82||112||102||-112|
+
+Bucket: 3
+|3||123||-33||-13||123||83||-13|
+
+Bucket: 4
+|94||-54||124||54||4||-114||-64||-94||4|
+
+Bucket: 5
+|-115||-105||-95||-105||-15||75||-105||85||-95||-75||105||-5||-85||-95||-15|
+
+Bucket: 6
+|-16||-86||26||46||6||46||66||6||76||-26||-106||6||96||26||36||-66||-56|
+
+Bucket: 7
+|-107||-37||97||47||57||97||107||57||107||17|
+
+Bucket: 8
+|-78||-68||28||-58||18||-18||-88|
+
+Bucket: 9
+|29||-99||-39||-49||49||99|
+
+
+Hash table with 100 units.
+|Probes for -125: 16|
+|Probes for -124: 10|
+|Probes for -123: 8|
+|Probes for -122: 5|
+|Probes for -121: 10|
+|Probes for -120: 12|
+|Probes for -119: 7|
+|Probes for -118: 8|
+|Probes for -117: 11|
+|Probes for -116: 18|
+|Probes for -115: 1|
+|Probes for -114: 6|
+|Probes for -113: 8|
+|Probes for -112: 9|
+|Probes for -111: 10|
+|Probes for -110: 3|
+|Probes for -109: 7|
+|Probes for -108: 8|
+|Probes for -107: 1|
+|Probes for -106: 11|
+|Probes for -105: 2|
+|Probes for -104: 10|
+|Probes for -103: 8|
+|Probes for -102: 10|
+|Probes for -101: 10|
+|Probes for -100: 12|
+|Probes for -99: 2|
+|Probes for -98: 8|
+|Probes for -97: 11|
+|Probes for -96: 18|
+|Probes for -95: 3|
+|Probes for -94: 8|
+|Probes for -93: 8|
+|Probes for -92: 10|
+|Probes for -91: 10|
+|Probes for -90: 1|
+|Probes for -89: 7|
+|Probes for -88: 7|
+|Probes for -87: 11|
+|Probes for -86: 2|
+|Probes for -85: 13|
+|Probes for -84: 10|
+|Probes for -83: 8|
+|Probes for -82: 10|
+|Probes for -81: 10|
+|Probes for -80: 12|
+|Probes for -79: 7|
+|Probes for -78: 1|
+|Probes for -77: 11|
+|Probes for -76: 18|
+|Probes for -75: 10|
+|Probes for -74: 10|
+|Probes for -73: 8|
+|Probes for -72: 4|
+|Probes for -71: 10|
+|Probes for -70: 12|
+|Probes for -69: 7|
+|Probes for -68: 2|
+|Probes for -67: 11|
+|Probes for -66: 16|
+|Probes for -65: 16|
+|Probes for -64: 7|
+|Probes for -63: 8|
+|Probes for -62: 10|
+|Probes for -61: 10|
+|Probes for -60: 2|
+|Probes for -59: 7|
+|Probes for -58: 4|
+|Probes for -57: 11|
+|Probes for -56: 17|
+|Probes for -55: 16|
+|Probes for -54: 2|
+|Probes for -53: 8|
+|Probes for -52: 10|
+|Probes for -51: 10|
+|Probes for -50: 12|
+|Probes for -49: 4|
+|Probes for -48: 8|
+|Probes for -47: 11|
+|Probes for -46: 18|
+|Probes for -45: 16|
+|Probes for -44: 10|
+|Probes for -43: 8|
+|Probes for -42: 10|
+|Probes for -41: 10|
+|Probes for -40: 12|
+|Probes for -39: 3|
+|Probes for -38: 8|
+|Probes for -37: 2|
+|Probes for -36: 18|
+|Probes for -35: 16|
+|Probes for -34: 10|
+|Probes for -33: 3|
+|Probes for -32: 10|
+|Probes for -31: 2|
+|Probes for -30: 12|
+|Probes for -29: 7|
+|Probes for -28: 8|
+|Probes for -27: 11|
+|Probes for -26: 10|
+|Probes for -25: 16|
+|Probes for -24: 10|
+|Probes for -23: 8|
+|Probes for -22: 10|
+|Probes for -21: 10|
+|Probes for -20: 12|
+|Probes for -19: 7|
+|Probes for -18: 6|
+|Probes for -17: 11|
+|Probes for -16: 1|
+|Probes for -15: 5|
+|Probes for -14: 10|
+|Probes for -13: 4|
+|Probes for -12: 10|
+|Probes for -11: 5|
+|Probes for -10: 12|
+|Probes for -9: 7|
+|Probes for -8: 8|
+|Probes for -7: 11|
+|Probes for -6: 18|
+|Probes for -5: 12|
+|Probes for -4: 10|
+|Probes for -3: 8|
+|Probes for -2: 10|
+|Probes for -1: 10|
+|Probes for 0: 5|
+|Probes for 1: 3|
+|Probes for 2: 10|
+|Probes for 3: 1|
+|Probes for 4: 5|
+|Probes for 5: 16|
+|Probes for 6: 5|
+|Probes for 7: 11|
+|Probes for 8: 8|
+|Probes for 9: 7|
+|Probes for 10: 12|
+|Probes for 11: 10|
+|Probes for 12: 10|
+|Probes for 13: 8|
+|Probes for 14: 10|
+|Probes for 15: 16|
+|Probes for 16: 18|
+|Probes for 17: 10|
+|Probes for 18: 5|
+|Probes for 19: 7|
+|Probes for 20: 12|
+|Probes for 21: 4|
+|Probes for 22: 3|
+|Probes for 23: 8|
+|Probes for 24: 10|
+|Probes for 25: 16|
+|Probes for 26: 3|
+|Probes for 27: 11|
+|Probes for 28: 3|
+|Probes for 29: 1|
+|Probes for 30: 12|
+|Probes for 31: 10|
+|Probes for 32: 10|
+|Probes for 33: 8|
+|Probes for 34: 10|
+|Probes for 35: 16|
+|Probes for 36: 15|
+|Probes for 37: 11|
+|Probes for 38: 8|
+|Probes for 39: 7|
+|Probes for 40: 7|
+|Probes for 41: 7|
+|Probes for 42: 10|
+|Probes for 43: 8|
+|Probes for 44: 10|
+|Probes for 45: 16|
+|Probes for 46: 4|
+|Probes for 47: 4|
+|Probes for 48: 8|
+|Probes for 49: 5|
+|Probes for 50: 12|
+|Probes for 51: 10|
+|Probes for 52: 10|
+|Probes for 53: 8|
+|Probes for 54: 4|
+|Probes for 55: 16|
+|Probes for 56: 18|
+|Probes for 57: 5|
+|Probes for 58: 8|
+|Probes for 59: 7|
+|Probes for 60: 12|
+|Probes for 61: 10|
+|Probes for 62: 2|
+|Probes for 63: 8|
+|Probes for 64: 10|
+|Probes for 65: 16|
+|Probes for 66: 7|
+|Probes for 67: 11|
+|Probes for 68: 8|
+|Probes for 69: 7|
+|Probes for 70: 12|
+|Probes for 71: 10|
+|Probes for 72: 10|
+|Probes for 73: 8|
+|Probes for 74: 10|
+|Probes for 75: 6|
+|Probes for 76: 9|
+|Probes for 77: 11|
+|Probes for 78: 8|
+|Probes for 79: 7|
+|Probes for 80: 6|
+|Probes for 81: 8|
+|Probes for 82: 6|
+|Probes for 83: 6|
+|Probes for 84: 10|
+|Probes for 85: 8|
+|Probes for 86: 18|
+|Probes for 87: 11|
+|Probes for 88: 8|
+|Probes for 89: 7|
+|Probes for 90: 12|
+|Probes for 91: 1|
+|Probes for 92: 10|
+|Probes for 93: 8|
+|Probes for 94: 1|
+|Probes for 95: 16|
+|Probes for 96: 13|
+|Probes for 97: 3|
+|Probes for 98: 8|
+|Probes for 99: 6|
+|Probes for 100: 10|
+|Probes for 101: 10|
+|Probes for 102: 1|
+|Probes for 103: 8|
+|Probes for 104: 10|
+|Probes for 105: 11|
+|Probes for 106: 18|
+|Probes for 107: 7|
+|Probes for 108: 8|
+|Probes for 109: 7|
+|Probes for 110: 11|
+|Probes for 111: 10|
+|Probes for 112: 7|
+|Probes for 113: 8|
+|Probes for 114: 10|
+|Probes for 115: 16|
+|Probes for 116: 18|
+|Probes for 117: 11|
+|Probes for 118: 8|
+|Probes for 119: 7|
+|Probes for 120: 12|
+|Probes for 121: 10|
+|Probes for 122: 10|
+|Probes for 123: 2|
+|Probes for 124: 3|
+|Probes for 125: 16|
+
+
+Bucket: 0
+|-90||-60||-110||-110||0||80||40||-110||-110||100||110||-50||-90||110||120||10||50||-90|
+
+Bucket: 1
+|91||-31||1||21||-11||91||41||81||-11||21||61||-21||91||-51||1||-121||-71||-1||81||1||121||-71||-91||71|
+
+Bucket: 2
+|102||62||22||-72||-122||82||112||102||-112||-122||-112||-12||2||-92||-82||52||12|
+
+Bucket: 3
+|3||123||-33||-13||123||83||-13||-93||53||-53||123||-83||73||3||123||-123||-113|
+
+Bucket: 4
+|94||-54||124||54||4||-114||-64||-94||4||-104||14||-14||-124||114||34||44||64||64||54|
+
+Bucket: 5
+|-115||-105||-95||-105||-15||75||-105||85||-95||-75||105||-5||-85||-95||-15||45||-55||55||-5||-15||-95||-95|
+
+Bucket: 6
+|-16||-86||26||46||6||46||66||6||76||-26||-106||6||96||26||36||-66||-56||-86||-106||6||116||6||36||36||-66||-106||-56||-56|
+
+Bucket: 7
+|-107||-37||97||47||57||97||107||57||107||17||107||-87||77||17||7||57||-97||47||-57|
+
+Bucket: 8
+|-78||-68||28||-58||18||-18||-88||8||48||-108||78||8||118||-78||-8||48||18||118||98||68|
+
+Bucket: 9
+|29||-99||-39||-49||49||99||69||39||19||-59||59||-19||39||59||99||89|
+
+
+Hash table with 200 units.
+|Probes for -125: 23|
+|Probes for -124: 13|
+|Probes for -123: 16|
+|Probes for -122: 5|
+|Probes for -121: 16|
+|Probes for -120: 19|
+|Probes for -119: 17|
+|Probes for -118: 21|
+|Probes for -117: 20|
+|Probes for -116: 29|
+|Probes for -115: 1|
+|Probes for -114: 6|
+|Probes for -113: 17|
+|Probes for -112: 9|
+|Probes for -111: 25|
+|Probes for -110: 3|
+|Probes for -109: 17|
+|Probes for -108: 10|
+|Probes for -107: 1|
+|Probes for -106: 11|
+|Probes for -105: 2|
+|Probes for -104: 10|
+|Probes for -103: 18|
+|Probes for -102: 18|
+|Probes for -101: 25|
+|Probes for -100: 19|
+|Probes for -99: 2|
+|Probes for -98: 21|
+|Probes for -97: 17|
+|Probes for -96: 29|
+|Probes for -95: 3|
+|Probes for -94: 8|
+|Probes for -93: 8|
+|Probes for -92: 14|
+|Probes for -91: 23|
+|Probes for -90: 1|
+|Probes for -89: 17|
+|Probes for -88: 7|
+|Probes for -87: 12|
+|Probes for -86: 2|
+|Probes for -85: 13|
+|Probes for -84: 20|
+|Probes for -83: 12|
+|Probes for -82: 15|
+|Probes for -81: 25|
+|Probes for -80: 19|
+|Probes for -79: 17|
+|Probes for -78: 1|
+|Probes for -77: 20|
+|Probes for -76: 29|
+|Probes for -75: 10|
+|Probes for -74: 20|
+|Probes for -73: 18|
+|Probes for -72: 4|
+|Probes for -71: 17|
+|Probes for -70: 19|
+|Probes for -69: 17|
+|Probes for -68: 2|
+|Probes for -67: 20|
+|Probes for -66: 16|
+|Probes for -65: 23|
+|Probes for -64: 7|
+|Probes for -63: 18|
+|Probes for -62: 18|
+|Probes for -61: 25|
+|Probes for -60: 2|
+|Probes for -59: 10|
+|Probes for -58: 4|
+|Probes for -57: 19|
+|Probes for -56: 17|
+|Probes for -55: 17|
+|Probes for -54: 2|
+|Probes for -53: 10|
+|Probes for -52: 18|
+|Probes for -51: 14|
+|Probes for -50: 12|
+|Probes for -49: 4|
+|Probes for -48: 21|
+|Probes for -47: 20|
+|Probes for -46: 29|
+|Probes for -45: 23|
+|Probes for -44: 20|
+|Probes for -43: 18|
+|Probes for -42: 18|
+|Probes for -41: 25|
+|Probes for -40: 19|
+|Probes for -39: 3|
+|Probes for -38: 21|
+|Probes for -37: 2|
+|Probes for -36: 29|
+|Probes for -35: 23|
+|Probes for -34: 20|
+|Probes for -33: 3|
+|Probes for -32: 18|
+|Probes for -31: 2|
+|Probes for -30: 19|
+|Probes for -29: 17|
+|Probes for -28: 21|
+|Probes for -27: 20|
+|Probes for -26: 10|
+|Probes for -25: 23|
+|Probes for -24: 20|
+|Probes for -23: 18|
+|Probes for -22: 18|
+|Probes for -21: 12|
+|Probes for -20: 19|
+|Probes for -19: 12|
+|Probes for -18: 6|
+|Probes for -17: 20|
+|Probes for -16: 1|
+|Probes for -15: 5|
+|Probes for -14: 12|
+|Probes for -13: 4|
+|Probes for -12: 12|
+|Probes for -11: 5|
+|Probes for -10: 19|
+|Probes for -9: 17|
+|Probes for -8: 15|
+|Probes for -7: 20|
+|Probes for -6: 29|
+|Probes for -5: 12|
+|Probes for -4: 20|
+|Probes for -3: 18|
+|Probes for -2: 18|
+|Probes for -1: 18|
+|Probes for 0: 5|
+|Probes for 1: 3|
+|Probes for 2: 13|
+|Probes for 3: 1|
+|Probes for 4: 5|
+|Probes for 5: 23|
+|Probes for 6: 5|
+|Probes for 7: 15|
+|Probes for 8: 8|
+|Probes for 9: 17|
+|Probes for 10: 16|
+|Probes for 11: 25|
+|Probes for 12: 17|
+|Probes for 13: 18|
+|Probes for 14: 11|
+|Probes for 15: 23|
+|Probes for 16: 29|
+|Probes for 17: 10|
+|Probes for 18: 5|
+|Probes for 19: 9|
+|Probes for 20: 19|
+|Probes for 21: 4|
+|Probes for 22: 3|
+|Probes for 23: 18|
+|Probes for 24: 20|
+|Probes for 25: 23|
+|Probes for 26: 3|
+|Probes for 27: 20|
+|Probes for 28: 3|
+|Probes for 29: 1|
+|Probes for 30: 19|
+|Probes for 31: 25|
+|Probes for 32: 18|
+|Probes for 33: 18|
+|Probes for 34: 15|
+|Probes for 35: 23|
+|Probes for 36: 15|
+|Probes for 37: 20|
+|Probes for 38: 21|
+|Probes for 39: 8|
+|Probes for 40: 7|
+|Probes for 41: 7|
+|Probes for 42: 18|
+|Probes for 43: 18|
+|Probes for 44: 16|
+|Probes for 45: 16|
+|Probes for 46: 4|
+|Probes for 47: 4|
+|Probes for 48: 9|
+|Probes for 49: 5|
+|Probes for 50: 17|
+|Probes for 51: 25|
+|Probes for 52: 16|
+|Probes for 53: 9|
+|Probes for 54: 4|
+|Probes for 55: 18|
+|Probes for 56: 29|
+|Probes for 57: 5|
+|Probes for 58: 21|
+|Probes for 59: 11|
+|Probes for 60: 19|
+|Probes for 61: 11|
+|Probes for 62: 2|
+|Probes for 63: 18|
+|Probes for 64: 17|
+|Probes for 65: 23|
+|Probes for 66: 7|
+|Probes for 67: 20|
+|Probes for 68: 20|
+|Probes for 69: 7|
+|Probes for 70: 19|
+|Probes for 71: 24|
+|Probes for 72: 18|
+|Probes for 73: 13|
+|Probes for 74: 20|
+|Probes for 75: 6|
+|Probes for 76: 9|
+|Probes for 77: 13|
+|Probes for 78: 11|
+|Probes for 79: 17|
+|Probes for 80: 6|
+|Probes for 81: 8|
+|Probes for 82: 6|
+|Probes for 83: 6|
+|Probes for 84: 20|
+|Probes for 85: 8|
+|Probes for 86: 29|
+|Probes for 87: 20|
+|Probes for 88: 21|
+|Probes for 89: 16|
+|Probes for 90: 19|
+|Probes for 91: 1|
+|Probes for 92: 18|
+|Probes for 93: 18|
+|Probes for 94: 1|
+|Probes for 95: 23|
+|Probes for 96: 13|
+|Probes for 97: 3|
+|Probes for 98: 19|
+|Probes for 99: 6|
+|Probes for 100: 10|
+|Probes for 101: 25|
+|Probes for 102: 1|
+|Probes for 103: 18|
+|Probes for 104: 20|
+|Probes for 105: 11|
+|Probes for 106: 29|
+|Probes for 107: 7|
+|Probes for 108: 21|
+|Probes for 109: 17|
+|Probes for 110: 11|
+|Probes for 111: 25|
+|Probes for 112: 7|
+|Probes for 113: 18|
+|Probes for 114: 14|
+|Probes for 115: 23|
+|Probes for 116: 21|
+|Probes for 117: 20|
+|Probes for 118: 13|
+|Probes for 119: 17|
+|Probes for 120: 15|
+|Probes for 121: 21|
+|Probes for 122: 18|
+|Probes for 123: 2|
+|Probes for 124: 3|
+|Probes for 125: 23|
+
+
+Bucket: 0
+|-90||-60||-110||-110||0||80||40||-110||-110||100||110||-50||-90||110||120||10||50||-90||50|
+
+Bucket: 1
+|91||-31||1||21||-11||91||41||81||-11||21||61||-21||91||-51||1||-121||-71||-1||81||1||121||-71||-91||71||-51||71||51||-101||111||41||91|
+
+Bucket: 2
+|102||62||22||-72||-122||82||112||102||-112||-122||-112||-12||2||-92||-82||52||12||12||-22||42||112||-92|
+
+Bucket: 3
+|3||123||-33||-13||123||83||-13||-93||53||-53||123||-83||73||3||123||-123||-113||23||123||-73|
+
+Bucket: 4
+|94||-54||124||54||4||-114||-64||-94||4||-104||14||-14||-124||114||34||44||64||64||54||64||114||44||74||-14||124||-64||54|
+
+Bucket: 5
+|-115||-105||-95||-105||-15||75||-105||85||-95||-75||105||-5||-85||-95||-15||45||-55||55||-5||-15||-95||-95||-125||5||85||25||5|
+
+Bucket: 6
+|-16||-86||26||46||6||46||66||6||76||-26||-106||6||96||26||36||-66||-56||-86||-106||6||116||6||36||36||-66||-106||-56||-56||36||-56||-46||26||96||-26||-16|
+
+Bucket: 7
+|-107||-37||97||47||57||97||107||57||107||17||107||-87||77||17||7||57||-97||47||-57||87||87||67||-17||77||-27||-37||7||-77|
+
+Bucket: 8
+|-78||-68||28||-58||18||-18||-88||8||48||-108||78||8||118||-78||-8||48||18||118||98||68||-38|
+
+Bucket: 9
+|29||-99||-39||-49||49||99||69||39||19||-59||59||-19||39||59||99||89||-9||39||79||9|
+
+
+Hash table with 250 units.
+|Probes for -125: 23|
+|Probes for -124: 13|
+|Probes for -123: 16|
+|Probes for -122: 5|
+|Probes for -121: 16|
+|Probes for -120: 20|
+|Probes for -119: 21|
+|Probes for -118: 22|
+|Probes for -117: 29|
+|Probes for -116: 36|
+|Probes for -115: 1|
+|Probes for -114: 6|
+|Probes for -113: 17|
+|Probes for -112: 9|
+|Probes for -111: 32|
+|Probes for -110: 3|
+|Probes for -109: 21|
+|Probes for -108: 10|
+|Probes for -107: 1|
+|Probes for -106: 11|
+|Probes for -105: 2|
+|Probes for -104: 10|
+|Probes for -103: 21|
+|Probes for -102: 23|
+|Probes for -101: 28|
+|Probes for -100: 20|
+|Probes for -99: 2|
+|Probes for -98: 22|
+|Probes for -97: 17|
+|Probes for -96: 36|
+|Probes for -95: 3|
+|Probes for -94: 8|
+|Probes for -93: 8|
+|Probes for -92: 14|
+|Probes for -91: 23|
+|Probes for -90: 1|
+|Probes for -89: 21|
+|Probes for -88: 7|
+|Probes for -87: 12|
+|Probes for -86: 2|
+|Probes for -85: 13|
+|Probes for -84: 28|
+|Probes for -83: 12|
+|Probes for -82: 15|
+|Probes for -81: 32|
+|Probes for -80: 20|
+|Probes for -79: 21|
+|Probes for -78: 1|
+|Probes for -77: 28|
+|Probes for -76: 36|
+|Probes for -75: 10|
+|Probes for -74: 28|
+|Probes for -73: 20|
+|Probes for -72: 4|
+|Probes for -71: 17|
+|Probes for -70: 20|
+|Probes for -69: 21|
+|Probes for -68: 2|
+|Probes for -67: 29|
+|Probes for -66: 16|
+|Probes for -65: 28|
+|Probes for -64: 7|
+|Probes for -63: 21|
+|Probes for -62: 23|
+|Probes for -61: 32|
+|Probes for -60: 2|
+|Probes for -59: 10|
+|Probes for -58: 4|
+|Probes for -57: 19|
+|Probes for -56: 17|
+|Probes for -55: 17|
+|Probes for -54: 2|
+|Probes for -53: 10|
+|Probes for -52: 23|
+|Probes for -51: 14|
+|Probes for -50: 12|
+|Probes for -49: 4|
+|Probes for -48: 22|
+|Probes for -47: 29|
+|Probes for -46: 31|
+|Probes for -45: 28|
+|Probes for -44: 28|
+|Probes for -43: 21|
+|Probes for -42: 23|
+|Probes for -41: 32|
+|Probes for -40: 20|
+|Probes for -39: 3|
+|Probes for -38: 21|
+|Probes for -37: 2|
+|Probes for -36: 36|
+|Probes for -35: 28|
+|Probes for -34: 28|
+|Probes for -33: 3|
+|Probes for -32: 23|
+|Probes for -31: 2|
+|Probes for -30: 20|
+|Probes for -29: 21|
+|Probes for -28: 22|
+|Probes for -27: 25|
+|Probes for -26: 10|
+|Probes for -25: 28|
+|Probes for -24: 28|
+|Probes for -23: 21|
+|Probes for -22: 19|
+|Probes for -21: 12|
+|Probes for -20: 20|
+|Probes for -19: 12|
+|Probes for -18: 6|
+|Probes for -17: 23|
+|Probes for -16: 1|
+|Probes for -15: 5|
+|Probes for -14: 12|
+|Probes for -13: 4|
+|Probes for -12: 12|
+|Probes for -11: 5|
+|Probes for -10: 20|
+|Probes for -9: 17|
+|Probes for -8: 15|
+|Probes for -7: 29|
+|Probes for -6: 36|
+|Probes for -5: 12|
+|Probes for -4: 28|
+|Probes for -3: 21|
+|Probes for -2: 23|
+|Probes for -1: 18|
+|Probes for 0: 5|
+|Probes for 1: 3|
+|Probes for 2: 13|
+|Probes for 3: 1|
+|Probes for 4: 5|
+|Probes for 5: 24|
+|Probes for 6: 5|
+|Probes for 7: 15|
+|Probes for 8: 8|
+|Probes for 9: 20|
+|Probes for 10: 16|
+|Probes for 11: 32|
+|Probes for 12: 17|
+|Probes for 13: 21|
+|Probes for 14: 11|
+|Probes for 15: 28|
+|Probes for 16: 36|
+|Probes for 17: 10|
+|Probes for 18: 5|
+|Probes for 19: 9|
+|Probes for 20: 20|
+|Probes for 21: 4|
+|Probes for 22: 3|
+|Probes for 23: 18|
+|Probes for 24: 28|
+|Probes for 25: 26|
+|Probes for 26: 3|
+|Probes for 27: 29|
+|Probes for 28: 3|
+|Probes for 29: 1|
+|Probes for 30: 20|
+|Probes for 31: 32|
+|Probes for 32: 23|
+|Probes for 33: 21|
+|Probes for 34: 15|
+|Probes for 35: 28|
+|Probes for 36: 15|
+|Probes for 37: 29|
+|Probes for 38: 22|
+|Probes for 39: 8|
+|Probes for 40: 7|
+|Probes for 41: 7|
+|Probes for 42: 20|
+|Probes for 43: 21|
+|Probes for 44: 16|
+|Probes for 45: 16|
+|Probes for 46: 4|
+|Probes for 47: 4|
+|Probes for 48: 9|
+|Probes for 49: 5|
+|Probes for 50: 17|
+|Probes for 51: 27|
+|Probes for 52: 16|
+|Probes for 53: 9|
+|Probes for 54: 4|
+|Probes for 55: 18|
+|Probes for 56: 36|
+|Probes for 57: 5|
+|Probes for 58: 22|
+|Probes for 59: 11|
+|Probes for 60: 20|
+|Probes for 61: 11|
+|Probes for 62: 2|
+|Probes for 63: 21|
+|Probes for 64: 17|
+|Probes for 65: 28|
+|Probes for 66: 7|
+|Probes for 67: 22|
+|Probes for 68: 20|
+|Probes for 69: 7|
+|Probes for 70: 20|
+|Probes for 71: 24|
+|Probes for 72: 23|
+|Probes for 73: 13|
+|Probes for 74: 23|
+|Probes for 75: 6|
+|Probes for 76: 9|
+|Probes for 77: 13|
+|Probes for 78: 11|
+|Probes for 79: 19|
+|Probes for 80: 6|
+|Probes for 81: 8|
+|Probes for 82: 6|
+|Probes for 83: 6|
+|Probes for 84: 28|
+|Probes for 85: 8|
+|Probes for 86: 36|
+|Probes for 87: 20|
+|Probes for 88: 22|
+|Probes for 89: 16|
+|Probes for 90: 20|
+|Probes for 91: 1|
+|Probes for 92: 23|
+|Probes for 93: 21|
+|Probes for 94: 1|
+|Probes for 95: 28|
+|Probes for 96: 13|
+|Probes for 97: 3|
+|Probes for 98: 19|
+|Probes for 99: 6|
+|Probes for 100: 10|
+|Probes for 101: 32|
+|Probes for 102: 1|
+|Probes for 103: 21|
+|Probes for 104: 28|
+|Probes for 105: 11|
+|Probes for 106: 36|
+|Probes for 107: 7|
+|Probes for 108: 22|
+|Probes for 109: 21|
+|Probes for 110: 11|
+|Probes for 111: 29|
+|Probes for 112: 7|
+|Probes for 113: 21|
+|Probes for 114: 14|
+|Probes for 115: 28|
+|Probes for 116: 21|
+|Probes for 117: 29|
+|Probes for 118: 13|
+|Probes for 119: 21|
+|Probes for 120: 15|
+|Probes for 121: 21|
+|Probes for 122: 23|
+|Probes for 123: 2|
+|Probes for 124: 3|
+|Probes for 125: 28|
+
+
+Bucket: 0
+|-110||-90||-60|
+
+Bucket: 1
+|91|
+
+Bucket: 2
+|-72||22||62||102|
+
+Bucket: 3
+|3||123|
+
+Bucket: 4
+|-54||94|
+
+Bucket: 5
+|-115||-105||-105||-95|
+
+Bucket: 6
+|-86||-16||26|
+
+Bucket: 7
+|-107||-37|
+
+Bucket: 8
+|-78||-68||28|
+
+Bucket: 9
+|29|
+
+
+Hash table with 25 units.
+Each bucket is sorted.
+
+|Probes for -125: 5|
+|Probes for -124: 3|
+|Probes for -123: 3|
+|Probes for -122: 5|
+|Probes for -121: 2|
+|Probes for -120: 4|
+|Probes for -119: 2|
+|Probes for -118: 4|
+|Probes for -117: 3|
+|Probes for -116: 4|
+|Probes for -115: 1|
+|Probes for -114: 3|
+|Probes for -113: 3|
+|Probes for -112: 5|
+|Probes for -111: 2|
+|Probes for -110: 1|
+|Probes for -109: 2|
+|Probes for -108: 4|
+|Probes for -107: 1|
+|Probes for -106: 4|
+|Probes for -105: 2|
+|Probes for -104: 3|
+|Probes for -103: 3|
+|Probes for -102: 5|
+|Probes for -101: 2|
+|Probes for -100: 4|
+|Probes for -99: 2|
+|Probes for -98: 4|
+|Probes for -97: 3|
+|Probes for -96: 4|
+|Probes for -95: 4|
+|Probes for -94: 3|
+|Probes for -93: 3|
+|Probes for -92: 5|
+|Probes for -91: 2|
+|Probes for -90: 2|
+|Probes for -89: 2|
+|Probes for -88: 4|
+|Probes for -87: 3|
+|Probes for -86: 1|
+|Probes for -85: 5|
+|Probes for -84: 3|
+|Probes for -83: 3|
+|Probes for -82: 5|
+|Probes for -81: 2|
+|Probes for -80: 4|
+|Probes for -79: 2|
+|Probes for -78: 1|
+|Probes for -77: 3|
+|Probes for -76: 4|
+|Probes for -75: 5|
+|Probes for -74: 3|
+|Probes for -73: 3|
+|Probes for -72: 1|
+|Probes for -71: 2|
+|Probes for -70: 4|
+|Probes for -69: 2|
+|Probes for -68: 2|
+|Probes for -67: 3|
+|Probes for -66: 4|
+|Probes for -65: 5|
+|Probes for -64: 3|
+|Probes for -63: 3|
+|Probes for -62: 5|
+|Probes for -61: 2|
+|Probes for -60: 3|
+|Probes for -59: 2|
+|Probes for -58: 4|
+|Probes for -57: 3|
+|Probes for -56: 4|
+|Probes for -55: 5|
+|Probes for -54: 1|
+|Probes for -53: 3|
+|Probes for -52: 5|
+|Probes for -51: 2|
+|Probes for -50: 4|
+|Probes for -49: 2|
+|Probes for -48: 4|
+|Probes for -47: 3|
+|Probes for -46: 4|
+|Probes for -45: 5|
+|Probes for -44: 3|
+|Probes for -43: 3|
+|Probes for -42: 5|
+|Probes for -41: 2|
+|Probes for -40: 4|
+|Probes for -39: 2|
+|Probes for -38: 4|
+|Probes for -37: 2|
+|Probes for -36: 4|
+|Probes for -35: 5|
+|Probes for -34: 3|
+|Probes for -33: 3|
+|Probes for -32: 5|
+|Probes for -31: 2|
+|Probes for -30: 4|
+|Probes for -29: 2|
+|Probes for -28: 4|
+|Probes for -27: 3|
+|Probes for -26: 4|
+|Probes for -25: 5|
+|Probes for -24: 3|
+|Probes for -23: 3|
+|Probes for -22: 5|
+|Probes for -21: 2|
+|Probes for -20: 4|
+|Probes for -19: 2|
+|Probes for -18: 4|
+|Probes for -17: 3|
+|Probes for -16: 2|
+|Probes for -15: 5|
+|Probes for -14: 3|
+|Probes for -13: 3|
+|Probes for -12: 5|
+|Probes for -11: 2|
+|Probes for -10: 4|
+|Probes for -9: 2|
+|Probes for -8: 4|
+|Probes for -7: 3|
+|Probes for -6: 4|
+|Probes for -5: 5|
+|Probes for -4: 3|
+|Probes for -3: 3|
+|Probes for -2: 5|
+|Probes for -1: 2|
+|Probes for 0: 4|
+|Probes for 1: 2|
+|Probes for 2: 5|
+|Probes for 3: 1|
+|Probes for 4: 3|
+|Probes for 5: 5|
+|Probes for 6: 4|
+|Probes for 7: 3|
+|Probes for 8: 4|
+|Probes for 9: 2|
+|Probes for 10: 4|
+|Probes for 11: 2|
+|Probes for 12: 5|
+|Probes for 13: 3|
+|Probes for 14: 3|
+|Probes for 15: 5|
+|Probes for 16: 4|
+|Probes for 17: 3|
+|Probes for 18: 4|
+|Probes for 19: 2|
+|Probes for 20: 4|
+|Probes for 21: 2|
+|Probes for 22: 2|
+|Probes for 23: 3|
+|Probes for 24: 3|
+|Probes for 25: 5|
+|Probes for 26: 3|
+|Probes for 27: 3|
+|Probes for 28: 3|
+|Probes for 29: 1|
+|Probes for 30: 4|
+|Probes for 31: 2|
+|Probes for 32: 5|
+|Probes for 33: 3|
+|Probes for 34: 3|
+|Probes for 35: 5|
+|Probes for 36: 4|
+|Probes for 37: 3|
+|Probes for 38: 4|
+|Probes for 39: 2|
+|Probes for 40: 4|
+|Probes for 41: 2|
+|Probes for 42: 5|
+|Probes for 43: 3|
+|Probes for 44: 3|
+|Probes for 45: 5|
+|Probes for 46: 4|
+|Probes for 47: 3|
+|Probes for 48: 4|
+|Probes for 49: 2|
+|Probes for 50: 4|
+|Probes for 51: 2|
+|Probes for 52: 5|
+|Probes for 53: 3|
+|Probes for 54: 3|
+|Probes for 55: 5|
+|Probes for 56: 4|
+|Probes for 57: 3|
+|Probes for 58: 4|
+|Probes for 59: 2|
+|Probes for 60: 4|
+|Probes for 61: 2|
+|Probes for 62: 3|
+|Probes for 63: 3|
+|Probes for 64: 3|
+|Probes for 65: 5|
+|Probes for 66: 4|
+|Probes for 67: 3|
+|Probes for 68: 4|
+|Probes for 69: 2|
+|Probes for 70: 4|
+|Probes for 71: 2|
+|Probes for 72: 5|
+|Probes for 73: 3|
+|Probes for 74: 3|
+|Probes for 75: 5|
+|Probes for 76: 4|
+|Probes for 77: 3|
+|Probes for 78: 4|
+|Probes for 79: 2|
+|Probes for 80: 4|
+|Probes for 81: 2|
+|Probes for 82: 5|
+|Probes for 83: 3|
+|Probes for 84: 3|
+|Probes for 85: 5|
+|Probes for 86: 4|
+|Probes for 87: 3|
+|Probes for 88: 4|
+|Probes for 89: 2|
+|Probes for 90: 4|
+|Probes for 91: 1|
+|Probes for 92: 5|
+|Probes for 93: 3|
+|Probes for 94: 2|
+|Probes for 95: 5|
+|Probes for 96: 4|
+|Probes for 97: 3|
+|Probes for 98: 4|
+|Probes for 99: 2|
+|Probes for 100: 4|
+|Probes for 101: 2|
+|Probes for 102: 4|
+|Probes for 103: 3|
+|Probes for 104: 3|
+|Probes for 105: 5|
+|Probes for 106: 4|
+|Probes for 107: 3|
+|Probes for 108: 4|
+|Probes for 109: 2|
+|Probes for 110: 4|
+|Probes for 111: 2|
+|Probes for 112: 5|
+|Probes for 113: 3|
+|Probes for 114: 3|
+|Probes for 115: 5|
+|Probes for 116: 4|
+|Probes for 117: 3|
+|Probes for 118: 4|
+|Probes for 119: 2|
+|Probes for 120: 4|
+|Probes for 121: 2|
+|Probes for 122: 5|
+|Probes for 123: 2|
+|Probes for 124: 3|
+|Probes for 125: 5|
+
+
+Bucket: 0
+|-110||-110||-90||-60||0||40||80|
+
+Bucket: 1
+|-31||1||21||91|
+
+Bucket: 2
+|-122||-72||22||62||82||102|
+
+Bucket: 3
+|-33||3||123|
+
+Bucket: 4
+|-54||54||94||124|
+
+Bucket: 5
+|-115||-105||-105||-95||-15|
+
+Bucket: 6
+|-86||-16||6||26||46||46||66|
+
+Bucket: 7
+|-107||-37||47||57||97|
+
+Bucket: 8
+|-78||-68||-58||18||28|
+
+Bucket: 9
+|-99||-49||-39||29|
+
+
+Hash table with 50 units.
+Each bucket is sorted.
+
+|Probes for -125: 6|
+|Probes for -124: 5|
+|Probes for -123: 4|
+|Probes for -122: 1|
+|Probes for -121: 5|
+|Probes for -120: 8|
+|Probes for -119: 5|
+|Probes for -118: 6|
+|Probes for -117: 6|
+|Probes for -116: 8|
+|Probes for -115: 1|
+|Probes for -114: 5|
+|Probes for -113: 4|
+|Probes for -112: 7|
+|Probes for -111: 5|
+|Probes for -110: 1|
+|Probes for -109: 5|
+|Probes for -108: 6|
+|Probes for -107: 1|
+|Probes for -106: 8|
+|Probes for -105: 2|
+|Probes for -104: 5|
+|Probes for -103: 4|
+|Probes for -102: 7|
+|Probes for -101: 5|
+|Probes for -100: 8|
+|Probes for -99: 1|
+|Probes for -98: 6|
+|Probes for -97: 6|
+|Probes for -96: 8|
+|Probes for -95: 4|
+|Probes for -94: 5|
+|Probes for -93: 4|
+|Probes for -92: 7|
+|Probes for -91: 5|
+|Probes for -90: 3|
+|Probes for -89: 5|
+|Probes for -88: 6|
+|Probes for -87: 6|
+|Probes for -86: 1|
+|Probes for -85: 6|
+|Probes for -84: 5|
+|Probes for -83: 4|
+|Probes for -82: 7|
+|Probes for -81: 5|
+|Probes for -80: 8|
+|Probes for -79: 5|
+|Probes for -78: 1|
+|Probes for -77: 6|
+|Probes for -76: 8|
+|Probes for -75: 6|
+|Probes for -74: 5|
+|Probes for -73: 4|
+|Probes for -72: 2|
+|Probes for -71: 5|
+|Probes for -70: 8|
+|Probes for -69: 5|
+|Probes for -68: 2|
+|Probes for -67: 6|
+|Probes for -66: 8|
+|Probes for -65: 6|
+|Probes for -64: 5|
+|Probes for -63: 4|
+|Probes for -62: 7|
+|Probes for -61: 5|
+|Probes for -60: 4|
+|Probes for -59: 5|
+|Probes for -58: 3|
+|Probes for -57: 6|
+|Probes for -56: 8|
+|Probes for -55: 6|
+|Probes for -54: 1|
+|Probes for -53: 4|
+|Probes for -52: 7|
+|Probes for -51: 5|
+|Probes for -50: 8|
+|Probes for -49: 2|
+|Probes for -48: 6|
+|Probes for -47: 6|
+|Probes for -46: 8|
+|Probes for -45: 6|
+|Probes for -44: 5|
+|Probes for -43: 4|
+|Probes for -42: 7|
+|Probes for -41: 5|
+|Probes for -40: 8|
+|Probes for -39: 3|
+|Probes for -38: 6|
+|Probes for -37: 2|
+|Probes for -36: 8|
+|Probes for -35: 6|
+|Probes for -34: 5|
+|Probes for -33: 1|
+|Probes for -32: 7|
+|Probes for -31: 1|
+|Probes for -30: 8|
+|Probes for -29: 5|
+|Probes for -28: 6|
+|Probes for -27: 6|
+|Probes for -26: 8|
+|Probes for -25: 6|
+|Probes for -24: 5|
+|Probes for -23: 4|
+|Probes for -22: 7|
+|Probes for -21: 5|
+|Probes for -20: 8|
+|Probes for -19: 5|
+|Probes for -18: 6|
+|Probes for -17: 6|
+|Probes for -16: 2|
+|Probes for -15: 5|
+|Probes for -14: 5|
+|Probes for -13: 4|
+|Probes for -12: 7|
+|Probes for -11: 5|
+|Probes for -10: 8|
+|Probes for -9: 5|
+|Probes for -8: 6|
+|Probes for -7: 6|
+|Probes for -6: 8|
+|Probes for -5: 6|
+|Probes for -4: 5|
+|Probes for -3: 4|
+|Probes for -2: 7|
+|Probes for -1: 5|
+|Probes for 0: 5|
+|Probes for 1: 2|
+|Probes for 2: 7|
+|Probes for 3: 2|
+|Probes for 4: 5|
+|Probes for 5: 6|
+|Probes for 6: 3|
+|Probes for 7: 6|
+|Probes for 8: 6|
+|Probes for 9: 5|
+|Probes for 10: 8|
+|Probes for 11: 5|
+|Probes for 12: 7|
+|Probes for 13: 4|
+|Probes for 14: 5|
+|Probes for 15: 6|
+|Probes for 16: 8|
+|Probes for 17: 6|
+|Probes for 18: 4|
+|Probes for 19: 5|
+|Probes for 20: 8|
+|Probes for 21: 3|
+|Probes for 22: 3|
+|Probes for 23: 4|
+|Probes for 24: 5|
+|Probes for 25: 6|
+|Probes for 26: 4|
+|Probes for 27: 6|
+|Probes for 28: 5|
+|Probes for 29: 4|
+|Probes for 30: 8|
+|Probes for 31: 5|
+|Probes for 32: 7|
+|Probes for 33: 4|
+|Probes for 34: 5|
+|Probes for 35: 6|
+|Probes for 36: 8|
+|Probes for 37: 6|
+|Probes for 38: 6|
+|Probes for 39: 5|
+|Probes for 40: 6|
+|Probes for 41: 5|
+|Probes for 42: 7|
+|Probes for 43: 4|
+|Probes for 44: 5|
+|Probes for 45: 6|
+|Probes for 46: 5|
+|Probes for 47: 3|
+|Probes for 48: 6|
+|Probes for 49: 5|
+|Probes for 50: 8|
+|Probes for 51: 5|
+|Probes for 52: 7|
+|Probes for 53: 4|
+|Probes for 54: 2|
+|Probes for 55: 6|
+|Probes for 56: 8|
+|Probes for 57: 4|
+|Probes for 58: 6|
+|Probes for 59: 5|
+|Probes for 60: 8|
+|Probes for 61: 5|
+|Probes for 62: 4|
+|Probes for 63: 4|
+|Probes for 64: 5|
+|Probes for 65: 6|
+|Probes for 66: 7|
+|Probes for 67: 6|
+|Probes for 68: 6|
+|Probes for 69: 5|
+|Probes for 70: 8|
+|Probes for 71: 5|
+|Probes for 72: 7|
+|Probes for 73: 4|
+|Probes for 74: 5|
+|Probes for 75: 6|
+|Probes for 76: 8|
+|Probes for 77: 6|
+|Probes for 78: 6|
+|Probes for 79: 5|
+|Probes for 80: 7|
+|Probes for 81: 5|
+|Probes for 82: 5|
+|Probes for 83: 4|
+|Probes for 84: 5|
+|Probes for 85: 6|
+|Probes for 86: 8|
+|Probes for 87: 6|
+|Probes for 88: 6|
+|Probes for 89: 5|
+|Probes for 90: 8|
+|Probes for 91: 4|
+|Probes for 92: 7|
+|Probes for 93: 4|
+|Probes for 94: 3|
+|Probes for 95: 6|
+|Probes for 96: 8|
+|Probes for 97: 5|
+|Probes for 98: 6|
+|Probes for 99: 5|
+|Probes for 100: 8|
+|Probes for 101: 5|
+|Probes for 102: 6|
+|Probes for 103: 4|
+|Probes for 104: 5|
+|Probes for 105: 6|
+|Probes for 106: 8|
+|Probes for 107: 6|
+|Probes for 108: 6|
+|Probes for 109: 5|
+|Probes for 110: 8|
+|Probes for 111: 5|
+|Probes for 112: 7|
+|Probes for 113: 4|
+|Probes for 114: 5|
+|Probes for 115: 6|
+|Probes for 116: 8|
+|Probes for 117: 6|
+|Probes for 118: 6|
+|Probes for 119: 5|
+|Probes for 120: 8|
+|Probes for 121: 5|
+|Probes for 122: 7|
+|Probes for 123: 3|
+|Probes for 124: 4|
+|Probes for 125: 6|
+
+
+Bucket: 0
+|-110||-110||-110||-110||-90||-60||0||40||80||100||110|
+
+Bucket: 1
+|-31||-11||-11||1||21||41||81||91||91|
+
+Bucket: 2
+|-122||-112||-72||22||62||82||102||102||112|
+
+Bucket: 3
+|-33||-13||-13||3||83||123||123|
+
+Bucket: 4
+|-114||-94||-64||-54||4||4||54||94||124|
+
+Bucket: 5
+|-115||-105||-105||-105||-95||-95||-95||-85||-75||-15||-15||-5||75||85||105|
+
+Bucket: 6
+|-106||-86||-66||-56||-26||-16||6||6||6||26||26||36||46||46||66||76||96|
+
+Bucket: 7
+|-107||-37||17||47||57||57||97||97||107||107|
+
+Bucket: 8
+|-88||-78||-68||-58||-18||18||28|
+
+Bucket: 9
+|-99||-49||-39||29||49||99|
+
+
+Hash table with 100 units.
+Each bucket is sorted.
+
+|Probes for -125: 16|
+|Probes for -124: 10|
+|Probes for -123: 8|
+|Probes for -122: 1|
+|Probes for -121: 10|
+|Probes for -120: 12|
+|Probes for -119: 7|
+|Probes for -118: 8|
+|Probes for -117: 11|
+|Probes for -116: 18|
+|Probes for -115: 1|
+|Probes for -114: 1|
+|Probes for -113: 8|
+|Probes for -112: 2|
+|Probes for -111: 10|
+|Probes for -110: 1|
+|Probes for -109: 7|
+|Probes for -108: 8|
+|Probes for -107: 1|
+|Probes for -106: 1|
+|Probes for -105: 2|
+|Probes for -104: 10|
+|Probes for -103: 8|
+|Probes for -102: 10|
+|Probes for -101: 10|
+|Probes for -100: 12|
+|Probes for -99: 1|
+|Probes for -98: 8|
+|Probes for -97: 11|
+|Probes for -96: 18|
+|Probes for -95: 5|
+|Probes for -94: 2|
+|Probes for -93: 8|
+|Probes for -92: 10|
+|Probes for -91: 10|
+|Probes for -90: 5|
+|Probes for -89: 7|
+|Probes for -88: 1|
+|Probes for -87: 11|
+|Probes for -86: 2|
+|Probes for -85: 8|
+|Probes for -84: 10|
+|Probes for -83: 8|
+|Probes for -82: 10|
+|Probes for -81: 10|
+|Probes for -80: 12|
+|Probes for -79: 7|
+|Probes for -78: 2|
+|Probes for -77: 11|
+|Probes for -76: 18|
+|Probes for -75: 9|
+|Probes for -74: 10|
+|Probes for -73: 8|
+|Probes for -72: 3|
+|Probes for -71: 10|
+|Probes for -70: 12|
+|Probes for -69: 7|
+|Probes for -68: 3|
+|Probes for -67: 11|
+|Probes for -66: 3|
+|Probes for -65: 16|
+|Probes for -64: 3|
+|Probes for -63: 8|
+|Probes for -62: 10|
+|Probes for -61: 10|
+|Probes for -60: 6|
+|Probes for -59: 7|
+|Probes for -58: 4|
+|Probes for -57: 11|
+|Probes for -56: 4|
+|Probes for -55: 16|
+|Probes for -54: 4|
+|Probes for -53: 8|
+|Probes for -52: 10|
+|Probes for -51: 10|
+|Probes for -50: 12|
+|Probes for -49: 2|
+|Probes for -48: 8|
+|Probes for -47: 11|
+|Probes for -46: 18|
+|Probes for -45: 16|
+|Probes for -44: 10|
+|Probes for -43: 8|
+|Probes for -42: 10|
+|Probes for -41: 10|
+|Probes for -40: 12|
+|Probes for -39: 3|
+|Probes for -38: 8|
+|Probes for -37: 2|
+|Probes for -36: 18|
+|Probes for -35: 16|
+|Probes for -34: 10|
+|Probes for -33: 1|
+|Probes for -32: 10|
+|Probes for -31: 1|
+|Probes for -30: 12|
+|Probes for -29: 7|
+|Probes for -28: 8|
+|Probes for -27: 11|
+|Probes for -26: 5|
+|Probes for -25: 16|
+|Probes for -24: 10|
+|Probes for -23: 8|
+|Probes for -22: 10|
+|Probes for -21: 10|
+|Probes for -20: 12|
+|Probes for -19: 7|
+|Probes for -18: 5|
+|Probes for -17: 11|
+|Probes for -16: 6|
+|Probes for -15: 10|
+|Probes for -14: 10|
+|Probes for -13: 2|
+|Probes for -12: 10|
+|Probes for -11: 2|
+|Probes for -10: 12|
+|Probes for -9: 7|
+|Probes for -8: 8|
+|Probes for -7: 11|
+|Probes for -6: 18|
+|Probes for -5: 12|
+|Probes for -4: 10|
+|Probes for -3: 8|
+|Probes for -2: 10|
+|Probes for -1: 10|
+|Probes for 0: 7|
+|Probes for 1: 4|
+|Probes for 2: 10|
+|Probes for 3: 4|
+|Probes for 4: 5|
+|Probes for 5: 16|
+|Probes for 6: 7|
+|Probes for 7: 11|
+|Probes for 8: 8|
+|Probes for 9: 7|
+|Probes for 10: 12|
+|Probes for 11: 10|
+|Probes for 12: 10|
+|Probes for 13: 8|
+|Probes for 14: 10|
+|Probes for 15: 16|
+|Probes for 16: 18|
+|Probes for 17: 3|
+|Probes for 18: 6|
+|Probes for 19: 7|
+|Probes for 20: 12|
+|Probes for 21: 5|
+|Probes for 22: 4|
+|Probes for 23: 8|
+|Probes for 24: 10|
+|Probes for 25: 16|
+|Probes for 26: 10|
+|Probes for 27: 11|
+|Probes for 28: 7|
+|Probes for 29: 4|
+|Probes for 30: 12|
+|Probes for 31: 10|
+|Probes for 32: 10|
+|Probes for 33: 8|
+|Probes for 34: 10|
+|Probes for 35: 16|
+|Probes for 36: 12|
+|Probes for 37: 11|
+|Probes for 38: 8|
+|Probes for 39: 7|
+|Probes for 40: 8|
+|Probes for 41: 6|
+|Probes for 42: 10|
+|Probes for 43: 8|
+|Probes for 44: 10|
+|Probes for 45: 16|
+|Probes for 46: 13|
+|Probes for 47: 4|
+|Probes for 48: 8|
+|Probes for 49: 5|
+|Probes for 50: 12|
+|Probes for 51: 10|
+|Probes for 52: 10|
+|Probes for 53: 8|
+|Probes for 54: 7|
+|Probes for 55: 16|
+|Probes for 56: 18|
+|Probes for 57: 5|
+|Probes for 58: 8|
+|Probes for 59: 7|
+|Probes for 60: 12|
+|Probes for 61: 10|
+|Probes for 62: 5|
+|Probes for 63: 8|
+|Probes for 64: 10|
+|Probes for 65: 16|
+|Probes for 66: 15|
+|Probes for 67: 11|
+|Probes for 68: 8|
+|Probes for 69: 7|
+|Probes for 70: 12|
+|Probes for 71: 10|
+|Probes for 72: 10|
+|Probes for 73: 8|
+|Probes for 74: 10|
+|Probes for 75: 13|
+|Probes for 76: 16|
+|Probes for 77: 11|
+|Probes for 78: 8|
+|Probes for 79: 7|
+|Probes for 80: 9|
+|Probes for 81: 7|
+|Probes for 82: 6|
+|Probes for 83: 5|
+|Probes for 84: 10|
+|Probes for 85: 14|
+|Probes for 86: 18|
+|Probes for 87: 11|
+|Probes for 88: 8|
+|Probes for 89: 7|
+|Probes for 90: 12|
+|Probes for 91: 8|
+|Probes for 92: 10|
+|Probes for 93: 8|
+|Probes for 94: 8|
+|Probes for 95: 16|
+|Probes for 96: 17|
+|Probes for 97: 7|
+|Probes for 98: 8|
+|Probes for 99: 6|
+|Probes for 100: 10|
+|Probes for 101: 10|
+|Probes for 102: 7|
+|Probes for 103: 8|
+|Probes for 104: 10|
+|Probes for 105: 15|
+|Probes for 106: 18|
+|Probes for 107: 9|
+|Probes for 108: 8|
+|Probes for 109: 7|
+|Probes for 110: 11|
+|Probes for 111: 10|
+|Probes for 112: 9|
+|Probes for 113: 8|
+|Probes for 114: 10|
+|Probes for 115: 16|
+|Probes for 116: 18|
+|Probes for 117: 11|
+|Probes for 118: 8|
+|Probes for 119: 7|
+|Probes for 120: 12|
+|Probes for 121: 10|
+|Probes for 122: 10|
+|Probes for 123: 6|
+|Probes for 124: 9|
+|Probes for 125: 16|
+
+
+Bucket: 0
+|-110||-110||-110||-110||-90||-90||-90||-60||-50||0||10||40||50||80||100||110||110||120|
+
+Bucket: 1
+|-121||-91||-71||-71||-51||-31||-21||-11||-11||-1||1||1||1||21||21||41||61||71||81||81||91||91||91||121|
+
+Bucket: 2
+|-122||-122||-112||-112||-92||-82||-72||-12||2||12||22||52||62||82||102||102||112|
+
+Bucket: 3
+|-123||-113||-93||-83||-53||-33||-13||-13||3||3||53||73||83||123||123||123||123|
+
+Bucket: 4
+|-124||-114||-104||-94||-64||-54||-14||4||4||14||34||44||54||54||64||64||94||114||124|
+
+Bucket: 5
+|-115||-105||-105||-105||-95||-95||-95||-95||-95||-85||-75||-55||-15||-15||-15||-5||-5||45||55||75||85||105|
+
+Bucket: 6
+|-106||-106||-106||-86||-86||-66||-66||-56||-56||-56||-26||-16||6||6||6||6||6||26||26||36||36||36||46||46||66||76||96||116|
+
+Bucket: 7
+|-107||-97||-87||-57||-37||7||17||17||47||47||57||57||57||77||97||97||107||107||107|
+
+Bucket: 8
+|-108||-88||-78||-78||-68||-58||-18||-8||8||8||18||18||28||48||48||68||78||98||118||118|
+
+Bucket: 9
+|-99||-59||-49||-39||-19||19||29||39||39||49||59||59||69||89||99||99|
+
+
+Hash table with 200 units.
+Each bucket is sorted.
+
+|Probes for -125: 23|
+|Probes for -124: 1|
+|Probes for -123: 1|
+|Probes for -122: 1|
+|Probes for -121: 1|
+|Probes for -120: 19|
+|Probes for -119: 17|
+|Probes for -118: 21|
+|Probes for -117: 20|
+|Probes for -116: 29|
+|Probes for -115: 1|
+|Probes for -114: 2|
+|Probes for -113: 2|
+|Probes for -112: 3|
+|Probes for -111: 25|
+|Probes for -110: 1|
+|Probes for -109: 17|
+|Probes for -108: 1|
+|Probes for -107: 1|
+|Probes for -106: 1|
+|Probes for -105: 2|
+|Probes for -104: 3|
+|Probes for -103: 18|
+|Probes for -102: 18|
+|Probes for -101: 25|
+|Probes for -100: 19|
+|Probes for -99: 1|
+|Probes for -98: 21|
+|Probes for -97: 2|
+|Probes for -96: 29|
+|Probes for -95: 5|
+|Probes for -94: 4|
+|Probes for -93: 3|
+|Probes for -92: 5|
+|Probes for -91: 2|
+|Probes for -90: 5|
+|Probes for -89: 17|
+|Probes for -88: 2|
+|Probes for -87: 3|
+|Probes for -86: 4|
+|Probes for -85: 10|
+|Probes for -84: 20|
+|Probes for -83: 4|
+|Probes for -82: 6|
+|Probes for -81: 25|
+|Probes for -80: 19|
+|Probes for -79: 17|
+|Probes for -78: 3|
+|Probes for -77: 20|
+|Probes for -76: 29|
+|Probes for -75: 11|
+|Probes for -74: 20|
+|Probes for -73: 18|
+|Probes for -72: 7|
+|Probes for -71: 3|
+|Probes for -70: 19|
+|Probes for -69: 17|
+|Probes for -68: 5|
+|Probes for -67: 20|
+|Probes for -66: 6|
+|Probes for -65: 23|
+|Probes for -64: 5|
+|Probes for -63: 18|
+|Probes for -62: 18|
+|Probes for -61: 25|
+|Probes for -60: 8|
+|Probes for -59: 2|
+|Probes for -58: 6|
+|Probes for -57: 4|
+|Probes for -56: 8|
+|Probes for -55: 12|
+|Probes for -54: 6|
+|Probes for -53: 5|
+|Probes for -52: 18|
+|Probes for -51: 5|
+|Probes for -50: 9|
+|Probes for -49: 3|
+|Probes for -48: 21|
+|Probes for -47: 20|
+|Probes for -46: 29|
+|Probes for -45: 23|
+|Probes for -44: 20|
+|Probes for -43: 18|
+|Probes for -42: 18|
+|Probes for -41: 25|
+|Probes for -40: 19|
+|Probes for -39: 4|
+|Probes for -38: 21|
+|Probes for -37: 5|
+|Probes for -36: 29|
+|Probes for -35: 23|
+|Probes for -34: 20|
+|Probes for -33: 6|
+|Probes for -32: 18|
+|Probes for -31: 6|
+|Probes for -30: 19|
+|Probes for -29: 17|
+|Probes for -28: 21|
+|Probes for -27: 20|
+|Probes for -26: 11|
+|Probes for -25: 23|
+|Probes for -24: 20|
+|Probes for -23: 18|
+|Probes for -22: 18|
+|Probes for -21: 7|
+|Probes for -20: 19|
+|Probes for -19: 5|
+|Probes for -18: 7|
+|Probes for -17: 20|
+|Probes for -16: 12|
+|Probes for -15: 13|
+|Probes for -14: 7|
+|Probes for -13: 7|
+|Probes for -12: 8|
+|Probes for -11: 8|
+|Probes for -10: 19|
+|Probes for -9: 17|
+|Probes for -8: 8|
+|Probes for -7: 20|
+|Probes for -6: 29|
+|Probes for -5: 16|
+|Probes for -4: 20|
+|Probes for -3: 18|
+|Probes for -2: 18|
+|Probes for -1: 10|
+|Probes for 0: 10|
+|Probes for 1: 11|
+|Probes for 2: 9|
+|Probes for 3: 9|
+|Probes for 4: 8|
+|Probes for 5: 23|
+|Probes for 6: 13|
+|Probes for 7: 6|
+|Probes for 8: 9|
+|Probes for 9: 17|
+|Probes for 10: 11|
+|Probes for 11: 25|
+|Probes for 12: 10|
+|Probes for 13: 18|
+|Probes for 14: 10|
+|Probes for 15: 23|
+|Probes for 16: 29|
+|Probes for 17: 7|
+|Probes for 18: 11|
+|Probes for 19: 6|
+|Probes for 20: 19|
+|Probes for 21: 14|
+|Probes for 22: 11|
+|Probes for 23: 18|
+|Probes for 24: 20|
+|Probes for 25: 23|
+|Probes for 26: 18|
+|Probes for 27: 20|
+|Probes for 28: 13|
+|Probes for 29: 7|
+|Probes for 30: 19|
+|Probes for 31: 25|
+|Probes for 32: 18|
+|Probes for 33: 18|
+|Probes for 34: 11|
+|Probes for 35: 23|
+|Probes for 36: 20|
+|Probes for 37: 20|
+|Probes for 38: 21|
+|Probes for 39: 8|
+|Probes for 40: 12|
+|Probes for 41: 16|
+|Probes for 42: 18|
+|Probes for 43: 18|
+|Probes for 44: 12|
+|Probes for 45: 18|
+|Probes for 46: 23|
+|Probes for 47: 9|
+|Probes for 48: 14|
+|Probes for 49: 10|
+|Probes for 50: 13|
+|Probes for 51: 25|
+|Probes for 52: 12|
+|Probes for 53: 11|
+|Probes for 54: 13|
+|Probes for 55: 19|
+|Probes for 56: 29|
+|Probes for 57: 11|
+|Probes for 58: 21|
+|Probes for 59: 11|
+|Probes for 60: 19|
+|Probes for 61: 17|
+|Probes for 62: 13|
+|Probes for 63: 18|
+|Probes for 64: 15|
+|Probes for 65: 23|
+|Probes for 66: 25|
+|Probes for 67: 20|
+|Probes for 68: 16|
+|Probes for 69: 13|
+|Probes for 70: 19|
+|Probes for 71: 18|
+|Probes for 72: 18|
+|Probes for 73: 12|
+|Probes for 74: 20|
+|Probes for 75: 20|
+|Probes for 76: 26|
+|Probes for 77: 14|
+|Probes for 78: 17|
+|Probes for 79: 17|
+|Probes for 80: 14|
+|Probes for 81: 19|
+|Probes for 82: 14|
+|Probes for 83: 13|
+|Probes for 84: 20|
+|Probes for 85: 21|
+|Probes for 86: 29|
+|Probes for 87: 20|
+|Probes for 88: 21|
+|Probes for 89: 14|
+|Probes for 90: 19|
+|Probes for 91: 21|
+|Probes for 92: 18|
+|Probes for 93: 18|
+|Probes for 94: 17|
+|Probes for 95: 23|
+|Probes for 96: 27|
+|Probes for 97: 15|
+|Probes for 98: 18|
+|Probes for 99: 15|
+|Probes for 100: 15|
+|Probes for 101: 25|
+|Probes for 102: 15|
+|Probes for 103: 18|
+|Probes for 104: 20|
+|Probes for 105: 22|
+|Probes for 106: 29|
+|Probes for 107: 17|
+|Probes for 108: 21|
+|Probes for 109: 17|
+|Probes for 110: 16|
+|Probes for 111: 25|
+|Probes for 112: 17|
+|Probes for 113: 18|
+|Probes for 114: 18|
+|Probes for 115: 23|
+|Probes for 116: 28|
+|Probes for 117: 20|
+|Probes for 118: 19|
+|Probes for 119: 17|
+|Probes for 120: 18|
+|Probes for 121: 24|
+|Probes for 122: 18|
+|Probes for 123: 14|
+|Probes for 124: 19|
+|Probes for 125: 23|
+
+
+Bucket: 0
+|-110||-110||-110||-110||-90||-90||-90||-60||-50||0||10||40||50||50||80||100||110||110||120|
+
+Bucket: 1
+|-121||-101||-91||-71||-71||-51||-51||-31||-21||-11||-11||-1||1||1||1||21||21||41||41||51||61||71||71||81||81||91||91||91||91||111||121|
+
+Bucket: 2
+|-122||-122||-112||-112||-92||-92||-82||-72||-22||-12||2||12||12||22||42||52||62||82||102||102||112||112|
+
+Bucket: 3
+|-123||-113||-93||-83||-73||-53||-33||-13||-13||3||3||23||53||73||83||123||123||123||123||123|
+
+Bucket: 4
+|-124||-114||-104||-94||-64||-64||-54||-14||-14||4||4||14||34||44||44||54||54||54||64||64||64||74||94||114||114||124||124|
+
+Bucket: 5
+|-125||-115||-105||-105||-105||-95||-95||-95||-95||-95||-85||-75||-55||-15||-15||-15||-5||-5||5||5||25||45||55||75||85||85||105|
+
+Bucket: 6
+|-106||-106||-106||-86||-86||-66||-66||-56||-56||-56||-56||-46||-26||-26||-16||-16||6||6||6||6||6||26||26||26||36||36||36||36||46||46||66||76||96||96||116|
+
+Bucket: 7
+|-107||-97||-87||-77||-57||-37||-37||-27||-17||7||7||17||17||47||47||57||57||57||67||77||77||87||87||97||97||107||107||107|
+
+Bucket: 8
+|-108||-88||-78||-78||-68||-58||-38||-18||-8||8||8||18||18||28||48||48||68||78||98||118||118|
+
+Bucket: 9
+|-99||-59||-49||-39||-19||-9||9||19||29||39||39||39||49||59||59||69||79||89||99||99|
+
+
+Hash table with 250 units.
+Each bucket is sorted.
+
+|Probes for -125: 1|
+|Probes for -124: 1|
+|Probes for -123: 1|
+|Probes for -122: 1|
+|Probes for -121: 1|
+|Probes for -120: 20|
+|Probes for -119: 21|
+|Probes for -118: 22|
+|Probes for -117: 29|
+|Probes for -116: 36|
+|Probes for -115: 2|
+|Probes for -114: 2|
+|Probes for -113: 2|
+|Probes for -112: 3|
+|Probes for -111: 32|
+|Probes for -110: 1|
+|Probes for -109: 21|
+|Probes for -108: 1|
+|Probes for -107: 1|
+|Probes for -106: 1|
+|Probes for -105: 3|
+|Probes for -104: 3|
+|Probes for -103: 21|
+|Probes for -102: 23|
+|Probes for -101: 2|
+|Probes for -100: 20|
+|Probes for -99: 1|
+|Probes for -98: 22|
+|Probes for -97: 2|
+|Probes for -96: 36|
+|Probes for -95: 6|
+|Probes for -94: 4|
+|Probes for -93: 3|
+|Probes for -92: 5|
+|Probes for -91: 3|
+|Probes for -90: 5|
+|Probes for -89: 21|
+|Probes for -88: 2|
+|Probes for -87: 3|
+|Probes for -86: 4|
+|Probes for -85: 11|
+|Probes for -84: 28|
+|Probes for -83: 4|
+|Probes for -82: 7|
+|Probes for -81: 32|
+|Probes for -80: 20|
+|Probes for -79: 21|
+|Probes for -78: 3|
+|Probes for -77: 4|
+|Probes for -76: 36|
+|Probes for -75: 12|
+|Probes for -74: 28|
+|Probes for -73: 5|
+|Probes for -72: 8|
+|Probes for -71: 4|
+|Probes for -70: 20|
+|Probes for -69: 21|
+|Probes for -68: 5|
+|Probes for -67: 29|
+|Probes for -66: 6|
+|Probes for -65: 28|
+|Probes for -64: 5|
+|Probes for -63: 21|
+|Probes for -62: 23|
+|Probes for -61: 32|
+|Probes for -60: 8|
+|Probes for -59: 2|
+|Probes for -58: 6|
+|Probes for -57: 5|
+|Probes for -56: 8|
+|Probes for -55: 13|
+|Probes for -54: 7|
+|Probes for -53: 6|
+|Probes for -52: 23|
+|Probes for -51: 6|
+|Probes for -50: 9|
+|Probes for -49: 3|
+|Probes for -48: 22|
+|Probes for -47: 29|
+|Probes for -46: 12|
+|Probes for -45: 28|
+|Probes for -44: 28|
+|Probes for -43: 21|
+|Probes for -42: 23|
+|Probes for -41: 32|
+|Probes for -40: 20|
+|Probes for -39: 4|
+|Probes for -38: 7|
+|Probes for -37: 6|
+|Probes for -36: 36|
+|Probes for -35: 28|
+|Probes for -34: 28|
+|Probes for -33: 7|
+|Probes for -32: 23|
+|Probes for -31: 8|
+|Probes for -30: 20|
+|Probes for -29: 21|
+|Probes for -28: 22|
+|Probes for -27: 8|
+|Probes for -26: 13|
+|Probes for -25: 28|
+|Probes for -24: 28|
+|Probes for -23: 21|
+|Probes for -22: 9|
+|Probes for -21: 9|
+|Probes for -20: 20|
+|Probes for -19: 5|
+|Probes for -18: 8|
+|Probes for -17: 9|
+|Probes for -16: 15|
+|Probes for -15: 14|
+|Probes for -14: 8|
+|Probes for -13: 8|
+|Probes for -12: 10|
+|Probes for -11: 10|
+|Probes for -10: 20|
+|Probes for -9: 6|
+|Probes for -8: 9|
+|Probes for -7: 29|
+|Probes for -6: 36|
+|Probes for -5: 17|
+|Probes for -4: 28|
+|Probes for -3: 21|
+|Probes for -2: 23|
+|Probes for -1: 12|
+|Probes for 0: 10|
+|Probes for 1: 13|
+|Probes for 2: 11|
+|Probes for 3: 10|
+|Probes for 4: 10|
+|Probes for 5: 19|
+|Probes for 6: 17|
+|Probes for 7: 10|
+|Probes for 8: 10|
+|Probes for 9: 7|
+|Probes for 10: 11|
+|Probes for 11: 32|
+|Probes for 12: 12|
+|Probes for 13: 21|
+|Probes for 14: 12|
+|Probes for 15: 28|
+|Probes for 16: 36|
+|Probes for 17: 12|
+|Probes for 18: 12|
+|Probes for 19: 8|
+|Probes for 20: 20|
+|Probes for 21: 16|
+|Probes for 22: 14|
+|Probes for 23: 12|
+|Probes for 24: 28|
+|Probes for 25: 21|
+|Probes for 26: 22|
+|Probes for 27: 29|
+|Probes for 28: 14|
+|Probes for 29: 9|
+|Probes for 30: 20|
+|Probes for 31: 32|
+|Probes for 32: 23|
+|Probes for 33: 21|
+|Probes for 34: 13|
+|Probes for 35: 28|
+|Probes for 36: 25|
+|Probes for 37: 29|
+|Probes for 38: 22|
+|Probes for 39: 10|
+|Probes for 40: 12|
+|Probes for 41: 18|
+|Probes for 42: 15|
+|Probes for 43: 21|
+|Probes for 44: 14|
+|Probes for 45: 22|
+|Probes for 46: 29|
+|Probes for 47: 14|
+|Probes for 48: 15|
+|Probes for 49: 13|
+|Probes for 50: 13|
+|Probes for 51: 20|
+|Probes for 52: 16|
+|Probes for 53: 13|
+|Probes for 54: 16|
+|Probes for 55: 23|
+|Probes for 56: 36|
+|Probes for 57: 16|
+|Probes for 58: 22|
+|Probes for 59: 14|
+|Probes for 60: 20|
+|Probes for 61: 21|
+|Probes for 62: 17|
+|Probes for 63: 21|
+|Probes for 64: 19|
+|Probes for 65: 28|
+|Probes for 66: 31|
+|Probes for 67: 19|
+|Probes for 68: 17|
+|Probes for 69: 16|
+|Probes for 70: 20|
+|Probes for 71: 22|
+|Probes for 72: 23|
+|Probes for 73: 14|
+|Probes for 74: 22|
+|Probes for 75: 24|
+|Probes for 76: 32|
+|Probes for 77: 20|
+|Probes for 78: 18|
+|Probes for 79: 17|
+|Probes for 80: 15|
+|Probes for 81: 24|
+|Probes for 82: 18|
+|Probes for 83: 15|
+|Probes for 84: 28|
+|Probes for 85: 25|
+|Probes for 86: 36|
+|Probes for 87: 22|
+|Probes for 88: 22|
+|Probes for 89: 18|
+|Probes for 90: 20|
+|Probes for 91: 26|
+|Probes for 92: 23|
+|Probes for 93: 21|
+|Probes for 94: 23|
+|Probes for 95: 28|
+|Probes for 96: 33|
+|Probes for 97: 24|
+|Probes for 98: 19|
+|Probes for 99: 19|
+|Probes for 100: 16|
+|Probes for 101: 32|
+|Probes for 102: 19|
+|Probes for 103: 21|
+|Probes for 104: 28|
+|Probes for 105: 27|
+|Probes for 106: 36|
+|Probes for 107: 26|
+|Probes for 108: 22|
+|Probes for 109: 21|
+|Probes for 110: 17|
+|Probes for 111: 30|
+|Probes for 112: 21|
+|Probes for 113: 21|
+|Probes for 114: 24|
+|Probes for 115: 28|
+|Probes for 116: 35|
+|Probes for 117: 29|
+|Probes for 118: 20|
+|Probes for 119: 21|
+|Probes for 120: 19|
+|Probes for 121: 31|
+|Probes for 122: 23|
+|Probes for 123: 16|
+|Probes for 124: 26|
+|Probes for 125: 28|
+
+
+]0;edison@edison-HP-15-Notebook-PC: ~/Documents/CSCI385/assign4edison@edison-HP-15-Notebook-PC:~/Documents/CSCI385/assign4$ ^C
+]0;edison@edison-HP-15-Notebook-PC: ~/Documents/CSCI385/assign4edison@edison-HP-15-Notebook-PC:~/Documents/CSCI385/assign4$ exit
+exit
+
+Script done on Tue 08 Nov 2016 05:16:30 PM EST

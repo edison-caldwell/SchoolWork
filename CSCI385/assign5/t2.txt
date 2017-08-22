@@ -1,0 +1,97 @@
+Script started on Sun 13 Nov 2016 04:30:29 PM EST
+]777;notify;Command completed;exit]0;e737108c@cslab174:~/2016FALL/CSCI385/assign5]7;file://cslab174/home/CS/e737108c/2016FALL/CSCI385/assign5[16:30] e737108c@cslab174:~/2016FALL/CSCI385/assign5 $ make
+make: Nothing to be done for 'all'.
+]777;notify;Command completed;make]0;e737108c@cslab174:~/2016FALL/CSCI385/assign5]7;file://cslab174/home/CS/e737108c/2016FALL/CSCI385/assign5[16:30] e737108c@cslab174:~/2016FALL/CSCI385/assign5 $ ./ass5 < input2.txt
+How many nodes in the graph? 
+
+
+Please enter connecting nodes for node 0(-1 to end):
+Please enter next node: 
+Please enter next node: 
+Please enter next node: 
+
+Please enter connecting nodes for node 1(-1 to end):
+Please enter next node: 
+Please enter next node: 
+Please enter next node: 
+Please enter next node: 
+Please enter next node: 
+
+Please enter connecting nodes for node 2(-1 to end):
+Please enter next node: 
+Please enter next node: 
+Please enter next node: 
+Please enter next node: 
+Please enter next node: 
+
+Please enter connecting nodes for node 3(-1 to end):
+Please enter next node: 
+Please enter next node: 
+Please enter next node: 
+Please enter next node: 
+
+Please enter connecting nodes for node 4(-1 to end):
+Please enter next node: 
+Please enter next node: 
+Please enter next node: 
+Please enter next node: 
+Please enter next node: 
+
+Please enter connecting nodes for node 5(-1 to end):
+Please enter next node: 
+Please enter next node: 
+
+Please enter connecting nodes for node 6(-1 to end):
+Please enter next node: 
+Please enter next node: 
+Please enter next node: 
+
+Please enter connecting nodes for node 7(-1 to end):
+Please enter next node: 
+Please enter next node: 
+
+Please enter connecting nodes for node 8(-1 to end):
+Please enter next node: 
+Please enter next node: 
+
+Please enter connecting nodes for node 9(-1 to end):
+Please enter next node: 
+Please enter next node: 
+Please enter next node: 
+Please enter next node: 
+
+
+Node 0 connected to: 6 5 3 
+
+Node 1 connected to: 6 8 4 3 2 
+
+Node 2 connected to: 9 7 4 1 0 
+
+Node 3 connected to: 0 1 4 9 
+
+Node 4 connected to: 1 0 3 2 5 
+
+Node 5 connected to: 4 0 
+
+Node 6 connected to: 2 9 7 
+
+Node 7 connected to: 2 6 
+
+Node 8 connected to: 7 6 
+
+Node 9 connected to: 7 1 2 3 
+
+Please pick a node between 0 and 9 to perform
+a breadth first search on: 
+
+0 6 5 3 2 9 7 4 1 8 
+
+Please pick a node between 0 and 9 to perform
+a depth first search on: 
+
+9 3 4 5 0 6 7 2 1 8 
+
+]777;notify;Command completed;./ass5 < input2.txt]0;e737108c@cslab174:~/2016FALL/CSCI385/assign5]7;file://cslab174/home/CS/e737108c/2016FALL/CSCI385/assign5[16:30] e737108c@cslab174:~/2016FALL/CSCI385/assign5 $ exit
+exit
+
+Script done on Sun 13 Nov 2016 04:30:53 PM EST

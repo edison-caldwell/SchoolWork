@@ -1,0 +1,79 @@
+Script started on Sun 13 Nov 2016 04:29:59 PM EST
+]777;notify;Command completed;git clone Assignment5]0;e737108c@cslab174:~/2016FALL/CSCI385/assign5]7;file://cslab174/home/CS/e737108c/2016FALL/CSCI385/assign5[16:30] e737108c@cslab174:~/2016FALL/CSCI385/assign5 $ make
+g++ -c Graph.cpp
+g++ -c List.cpp
+g++ -c Stack.cpp
+g++ -c Queue.cpp
+g++ -c Client.cpp
+g++ Graph.o List.o Stack.o Queue.o Client.o -o ass5
+]777;notify;Command completed;make]0;e737108c@cslab174:~/2016FALL/CSCI385/assign5]7;file://cslab174/home/CS/e737108c/2016FALL/CSCI385/assign5[16:30] e737108c@cslab174:~/2016FALL/CSCI385/assign5 $ ./ass5 < input.txt
+How many nodes in the graph? 
+
+
+Please enter connecting nodes for node 0(-1 to end):
+Please enter next node: 
+
+Please enter connecting nodes for node 1(-1 to end):
+Please enter next node: 
+Please enter next node: 
+Please enter next node: 
+Please enter next node: 
+
+Please enter connecting nodes for node 2(-1 to end):
+Please enter next node: 
+Please enter next node: 
+Please enter next node: 
+Please enter next node: 
+
+Please enter connecting nodes for node 3(-1 to end):
+Please enter next node: 
+Please enter next node: 
+
+Please enter connecting nodes for node 4(-1 to end):
+Please enter next node: 
+Please enter next node: 
+Please enter next node: 
+Please enter next node: 
+
+Please enter connecting nodes for node 5(-1 to end):
+Please enter next node: 
+
+Please enter connecting nodes for node 6(-1 to end):
+Please enter next node: 
+Please enter next node: 
+
+Please enter connecting nodes for node 7(-1 to end):
+Please enter next node: 
+Please enter next node: 
+
+
+Node 0 connected to: 1 
+
+Node 1 connected to: 0 2 4 3 
+
+Node 2 connected to: 6 7 4 1 
+
+Node 3 connected to: 1 4 
+
+Node 4 connected to: 1 3 2 5 
+
+Node 5 connected to: 4 
+
+Node 6 connected to: 2 7 
+
+Node 7 connected to: 2 6 
+
+Please pick a node between 0 and 7 to perform
+a breadth first search on: 
+
+7 2 6 4 1 3 5 0 
+
+Please pick a node between 0 and 7 to perform
+a depth first search on: 
+
+6 7 2 1 3 4 5 0 
+
+]777;notify;Command completed;./ass5 < input.txt]0;e737108c@cslab174:~/2016FALL/CSCI385/assign5]7;file://cslab174/home/CS/e737108c/2016FALL/CSCI385/assign5[16:30] e737108c@cslab174:~/2016FALL/CSCI385/assign5 $ exit
+exit
+
+Script done on Sun 13 Nov 2016 04:30:14 PM EST
